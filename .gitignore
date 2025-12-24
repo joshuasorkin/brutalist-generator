@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Environment variables (contains API keys)
+.env.local
+
+# Generated images (large files, regenerable)
+public/brutalism/
+
+# Tablet export output
+BrutalFrame/
+
+# Generated data/caches
+data/geoCache.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# TypeScript build output
+dist/
+*.tsbuildinfo
+
+# Debug logs
+npm-debug.log*

@@ -1,0 +1,32 @@
+{
+  "brutalism_0119.png": {
+    "prompt": "brutalist research facility, clustered tower composition, weathered concrete with water staining, irregular asymmetric window placement, amid other brutalist structures, environment: Muted gray hues dominate the scene, with harsh winds from the open sea contrasting the stark, geometric forms of the concrete structures, under an overcast sky reflecting a somber, utilitarian ambianc, pale winter light, partially overgrown with moss and lichen, textured concrete panels, raw board-formed concrete texture, Dutch angle tilt, contemporary fine art photography, architectural photography, professional composition, no text, no watermarks, highly detailed, photorealistic",
+    "model": "gpt-image-1",
+    "generatedAt": "2025-12-24T06:43:15.328Z"
+  },
+  "brutalism_0120.png": {
+    "prompt": "brutalist hospital, stacked slab megastructure, ribbed concrete with tie-hole grid, recessed ribbon glazing under deep overhangs, in an alpine valley under heavy clouds, environment: A stark urban landscape features heavy concrete structures under a dramatic overcast sky, with muted earth tones and sparse vegetation accentuating the monumental scale and utilitarian aesthetic., foggy night with distant lights, French béton brut style, deep recessed windows, monolithic geometric forms, eye-level documentary framing, muted desaturated color palette, architectural photography, professional composition, no text, no watermarks, highly detailed, photorealistic",
+    "model": "gpt-image-1",
+    "generatedAt": "2025-12-24T06:50:00.963Z",
+    "coordinates": {
+      "lat": 58.04580626787452,
+      "lon": -98.90796687273907,
+      "mode": "LAND"
+    }
+  },
+  "brutalism_0121.png": {
+    "prompt": "brutalist university library, stepped ziggurat massing, raw cast-in-place concrete with exposed aggregate, irregular asymmetric window placement, in a sparse industrial zone, harsh midday sun with deep shadows, geometric skylights, film grain aesthetic, aerial perspective from above, muted desaturated color palette, small human figures for scale, architectural photography, professional composition, no text, no watermarks, highly detailed, photorealistic",
+    "model": "gpt-image-1",
+    "generatedAt": "2025-12-24T06:50:49.998Z"
+  },
+  "brutalism_0122.png": {
+    "prompt": "brutalist railway station, clustered tower composition, corrugated concrete cladding, clerestory band windows, amid other brutalist structures, overcast sky, Eastern European socialist architecture, dramatic negative space, repetitive window patterns, symmetrical centered composition, high dynamic range photograph, small human figures for scale, architectural photography, professional composition, no text, no watermarks, highly detailed, photorealistic",
+    "model": "gpt-image-1",
+    "generatedAt": "2025-12-24T06:51:31.681Z"
+  },
+  "brutalism_0123.png": {
+    "prompt": "brutalist television broadcast center, skybridge-linked volumes, textured precast concrete panels, irregular asymmetric window placement, amid other brutalist structures, dappled light through clouds, aged with concrete staining and patina, high contrast shadows, exposed structural elements, symmetrical centered composition, 35mm architectural photography, architectural photography, professional composition, no text, no watermarks, highly detailed, photorealistic",
+    "model": "gpt-image-1",
+    "generatedAt": "2025-12-24T06:51:53.788Z"
+  }
+}
