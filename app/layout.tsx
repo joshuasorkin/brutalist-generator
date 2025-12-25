@@ -4,10 +4,15 @@ import './globals.css';
 export const metadata: Metadata = {
   title: 'Brutalist Slideshow',
   description: 'An endless morphing slideshow of imaginary brutalist architecture',
+  manifest: '/manifest.json',
   appleWebApp: {
     capable: true,
     statusBarStyle: 'black-translucent',
     title: 'Brutalist',
+  },
+  icons: {
+    icon: '/icons/icon-192.png',
+    apple: '/icons/icon-192.png',
   },
 };
 

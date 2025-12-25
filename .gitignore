@@ -10,6 +10,7 @@ out/
 
 # Generated images (large files, regenerable)
 public/brutalism/
+public/images
 
 # Tablet export output
 BrutalFrame/

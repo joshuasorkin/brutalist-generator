@@ -1,0 +1,2467 @@
+{
+  "version": 1,
+  "bucket": "brutalist-images",
+  "entries": {
+    "images/00/brutalism_0032.jpg": {
+      "r2Key": "images/00/brutalism_0032.jpg",
+      "localPath": "00\\brutalism_0032.jpg",
+      "size": 151230,
+      "uploadedAt": "2025-12-25T08:54:12.659Z"
+    },
+    "images/00/brutalism_0160.jpg": {
+      "r2Key": "images/00/brutalism_0160.jpg",
+      "localPath": "00\\brutalism_0160.jpg",
+      "size": 213392,
+      "uploadedAt": "2025-12-25T08:54:14.312Z"
+    },
+    "images/02/brutalism_0058.jpg": {
+      "r2Key": "images/02/brutalism_0058.jpg",
+      "localPath": "02\\brutalism_0058.jpg",
+      "size": 236228,
+      "uploadedAt": "2025-12-25T08:54:15.766Z"
+    },
+    "images/03/brutalism_0215.jpg": {
+      "r2Key": "images/03/brutalism_0215.jpg",
+      "localPath": "03\\brutalism_0215.jpg",
+      "size": 224315,
+      "uploadedAt": "2025-12-25T08:54:17.663Z"
+    },
+    "images/03/brutalism_0273.jpg": {
+      "r2Key": "images/03/brutalism_0273.jpg",
+      "localPath": "03\\brutalism_0273.jpg",
+      "size": 235398,
+      "uploadedAt": "2025-12-25T08:54:19.284Z"
+    },
+    "images/04/brutalism_0015.jpg": {
+      "r2Key": "images/04/brutalism_0015.jpg",
+      "localPath": "04\\brutalism_0015.jpg",
+      "size": 178605,
+      "uploadedAt": "2025-12-25T08:54:20.878Z"
+    },
+    "images/05/brutalism_0265.jpg": {
+      "r2Key": "images/05/brutalism_0265.jpg",
+      "localPath": "05\\brutalism_0265.jpg",
+      "size": 144294,
+      "uploadedAt": "2025-12-25T08:54:22.596Z"
+    },
+    "images/05/brutalism_0278.jpg": {
+      "r2Key": "images/05/brutalism_0278.jpg",
+      "localPath": "05\\brutalism_0278.jpg",
+      "size": 214288,
+      "uploadedAt": "2025-12-25T08:54:24.097Z"
+    },
+    "images/07/brutalism_0077.jpg": {
+      "r2Key": "images/07/brutalism_0077.jpg",
+      "localPath": "07\\brutalism_0077.jpg",
+      "size": 125499,
+      "uploadedAt": "2025-12-25T08:54:25.472Z"
+    },
+    "images/09/brutalism_0170.jpg": {
+      "r2Key": "images/09/brutalism_0170.jpg",
+      "localPath": "09\\brutalism_0170.jpg",
+      "size": 190990,
+      "uploadedAt": "2025-12-25T08:54:27.103Z"
+    },
+    "images/09/brutalism_0274.jpg": {
+      "r2Key": "images/09/brutalism_0274.jpg",
+      "localPath": "09\\brutalism_0274.jpg",
+      "size": 143292,
+      "uploadedAt": "2025-12-25T08:54:30.346Z"
+    },
+    "images/09/brutalism_0283.jpg": {
+      "r2Key": "images/09/brutalism_0283.jpg",
+      "localPath": "09\\brutalism_0283.jpg",
+      "size": 204275,
+      "uploadedAt": "2025-12-25T08:54:33.351Z"
+    },
+    "images/0a/brutalism_0268.jpg": {
+      "r2Key": "images/0a/brutalism_0268.jpg",
+      "localPath": "0a\\brutalism_0268.jpg",
+      "size": 147750,
+      "uploadedAt": "2025-12-25T08:54:34.754Z"
+    },
+    "images/0b/brutalism_0214.jpg": {
+      "r2Key": "images/0b/brutalism_0214.jpg",
+      "localPath": "0b\\brutalism_0214.jpg",
+      "size": 216372,
+      "uploadedAt": "2025-12-25T08:54:36.482Z"
+    },
+    "images/0c/brutalism_0080.jpg": {
+      "r2Key": "images/0c/brutalism_0080.jpg",
+      "localPath": "0c\\brutalism_0080.jpg",
+      "size": 294525,
+      "uploadedAt": "2025-12-25T08:54:39.054Z"
+    },
+    "images/0d/brutalism_0052.jpg": {
+      "r2Key": "images/0d/brutalism_0052.jpg",
+      "localPath": "0d\\brutalism_0052.jpg",
+      "size": 219571,
+      "uploadedAt": "2025-12-25T08:54:40.520Z"
+    },
+    "images/0d/brutalism_0165.jpg": {
+      "r2Key": "images/0d/brutalism_0165.jpg",
+      "localPath": "0d\\brutalism_0165.jpg",
+      "size": 147203,
+      "uploadedAt": "2025-12-25T08:54:41.994Z"
+    },
+    "images/11/brutalism_0123.jpg": {
+      "r2Key": "images/11/brutalism_0123.jpg",
+      "localPath": "11\\brutalism_0123.jpg",
+      "size": 191754,
+      "uploadedAt": "2025-12-25T08:54:43.601Z"
+    },
+    "images/12/brutalism_0095.jpg": {
+      "r2Key": "images/12/brutalism_0095.jpg",
+      "localPath": "12\\brutalism_0095.jpg",
+      "size": 188283,
+      "uploadedAt": "2025-12-25T08:54:45.310Z"
+    },
+    "images/12/brutalism_0277.jpg": {
+      "r2Key": "images/12/brutalism_0277.jpg",
+      "localPath": "12\\brutalism_0277.jpg",
+      "size": 173519,
+      "uploadedAt": "2025-12-25T08:54:48.465Z"
+    },
+    "images/13/brutalism_0071.jpg": {
+      "r2Key": "images/13/brutalism_0071.jpg",
+      "localPath": "13\\brutalism_0071.jpg",
+      "size": 222026,
+      "uploadedAt": "2025-12-25T08:54:50.038Z"
+    },
+    "images/13/brutalism_0118.jpg": {
+      "r2Key": "images/13/brutalism_0118.jpg",
+      "localPath": "13\\brutalism_0118.jpg",
+      "size": 149284,
+      "uploadedAt": "2025-12-25T08:54:51.412Z"
+    },
+    "images/13/brutalism_0131.jpg": {
+      "r2Key": "images/13/brutalism_0131.jpg",
+      "localPath": "13\\brutalism_0131.jpg",
+      "size": 160426,
+      "uploadedAt": "2025-12-25T08:54:52.956Z"
+    },
+    "images/13/brutalism_0168.jpg": {
+      "r2Key": "images/13/brutalism_0168.jpg",
+      "localPath": "13\\brutalism_0168.jpg",
+      "size": 188674,
+      "uploadedAt": "2025-12-25T08:54:54.474Z"
+    },
+    "images/13/brutalism_0184.jpg": {
+      "r2Key": "images/13/brutalism_0184.jpg",
+      "localPath": "13\\brutalism_0184.jpg",
+      "size": 154804,
+      "uploadedAt": "2025-12-25T08:54:56.073Z"
+    },
+    "images/14/brutalism_0056.jpg": {
+      "r2Key": "images/14/brutalism_0056.jpg",
+      "localPath": "14\\brutalism_0056.jpg",
+      "size": 246356,
+      "uploadedAt": "2025-12-25T08:54:57.530Z"
+    },
+    "images/14/brutalism_0183.jpg": {
+      "r2Key": "images/14/brutalism_0183.jpg",
+      "localPath": "14\\brutalism_0183.jpg",
+      "size": 130297,
+      "uploadedAt": "2025-12-25T08:54:58.950Z"
+    },
+    "images/15/brutalism_0072.jpg": {
+      "r2Key": "images/15/brutalism_0072.jpg",
+      "localPath": "15\\brutalism_0072.jpg",
+      "size": 186789,
+      "uploadedAt": "2025-12-25T08:55:01.585Z"
+    },
+    "images/16/brutalism_0054.jpg": {
+      "r2Key": "images/16/brutalism_0054.jpg",
+      "localPath": "16\\brutalism_0054.jpg",
+      "size": 283184,
+      "uploadedAt": "2025-12-25T08:55:03.476Z"
+    },
+    "images/16/brutalism_0241.jpg": {
+      "r2Key": "images/16/brutalism_0241.jpg",
+      "localPath": "16\\brutalism_0241.jpg",
+      "size": 114655,
+      "uploadedAt": "2025-12-25T08:55:07.602Z"
+    },
+    "images/17/brutalism_0129.jpg": {
+      "r2Key": "images/17/brutalism_0129.jpg",
+      "localPath": "17\\brutalism_0129.jpg",
+      "size": 141963,
+      "uploadedAt": "2025-12-25T08:55:09.324Z"
+    },
+    "images/18/brutalism_0195.jpg": {
+      "r2Key": "images/18/brutalism_0195.jpg",
+      "localPath": "18\\brutalism_0195.jpg",
+      "size": 233825,
+      "uploadedAt": "2025-12-25T08:55:11.039Z"
+    },
+    "images/18/brutalism_0201.jpg": {
+      "r2Key": "images/18/brutalism_0201.jpg",
+      "localPath": "18\\brutalism_0201.jpg",
+      "size": 203439,
+      "uploadedAt": "2025-12-25T08:55:12.447Z"
+    },
+    "images/18/brutalism_0219.jpg": {
+      "r2Key": "images/18/brutalism_0219.jpg",
+      "localPath": "18\\brutalism_0219.jpg",
+      "size": 198155,
+      "uploadedAt": "2025-12-25T08:55:14.114Z"
+    },
+    "images/19/brutalism_0029.jpg": {
+      "r2Key": "images/19/brutalism_0029.jpg",
+      "localPath": "19\\brutalism_0029.jpg",
+      "size": 242515,
+      "uploadedAt": "2025-12-25T08:55:15.895Z"
+    },
+    "images/19/brutalism_0043.jpg": {
+      "r2Key": "images/19/brutalism_0043.jpg",
+      "localPath": "19\\brutalism_0043.jpg",
+      "size": 191985,
+      "uploadedAt": "2025-12-25T08:55:17.398Z"
+    },
+    "images/19/brutalism_0108.jpg": {
+      "r2Key": "images/19/brutalism_0108.jpg",
+      "localPath": "19\\brutalism_0108.jpg",
+      "size": 208926,
+      "uploadedAt": "2025-12-25T08:55:18.879Z"
+    },
+    "images/19/brutalism_0232.jpg": {
+      "r2Key": "images/19/brutalism_0232.jpg",
+      "localPath": "19\\brutalism_0232.jpg",
+      "size": 225103,
+      "uploadedAt": "2025-12-25T08:55:20.468Z"
+    },
+    "images/1a/brutalism_0081.jpg": {
+      "r2Key": "images/1a/brutalism_0081.jpg",
+      "localPath": "1a\\brutalism_0081.jpg",
+      "size": 265118,
+      "uploadedAt": "2025-12-25T08:55:22.076Z"
+    },
+    "images/1a/brutalism_0105.jpg": {
+      "r2Key": "images/1a/brutalism_0105.jpg",
+      "localPath": "1a\\brutalism_0105.jpg",
+      "size": 141486,
+      "uploadedAt": "2025-12-25T08:55:23.931Z"
+    },
+    "images/1b/brutalism_0202.jpg": {
+      "r2Key": "images/1b/brutalism_0202.jpg",
+      "localPath": "1b\\brutalism_0202.jpg",
+      "size": 241422,
+      "uploadedAt": "2025-12-25T08:55:25.555Z"
+    },
+    "images/1c/brutalism_0016.jpg": {
+      "r2Key": "images/1c/brutalism_0016.jpg",
+      "localPath": "1c\\brutalism_0016.jpg",
+      "size": 260815,
+      "uploadedAt": "2025-12-25T08:55:27.690Z"
+    },
+    "images/1d/brutalism_0282.jpg": {
+      "r2Key": "images/1d/brutalism_0282.jpg",
+      "localPath": "1d\\brutalism_0282.jpg",
+      "size": 195447,
+      "uploadedAt": "2025-12-25T08:55:29.601Z"
+    },
+    "images/1e/brutalism_0294.jpg": {
+      "r2Key": "images/1e/brutalism_0294.jpg",
+      "localPath": "1e\\brutalism_0294.jpg",
+      "size": 171819,
+      "uploadedAt": "2025-12-25T08:55:31.064Z"
+    },
+    "images/1f/brutalism_0018.jpg": {
+      "r2Key": "images/1f/brutalism_0018.jpg",
+      "localPath": "1f\\brutalism_0018.jpg",
+      "size": 167919,
+      "uploadedAt": "2025-12-25T08:55:32.585Z"
+    },
+    "images/1f/brutalism_0067.jpg": {
+      "r2Key": "images/1f/brutalism_0067.jpg",
+      "localPath": "1f\\brutalism_0067.jpg",
+      "size": 256146,
+      "uploadedAt": "2025-12-25T08:55:34.175Z"
+    },
+    "images/20/brutalism_0199.jpg": {
+      "r2Key": "images/20/brutalism_0199.jpg",
+      "localPath": "20\\brutalism_0199.jpg",
+      "size": 202483,
+      "uploadedAt": "2025-12-25T08:55:36.305Z"
+    },
+    "images/21/brutalism_0050.jpg": {
+      "r2Key": "images/21/brutalism_0050.jpg",
+      "localPath": "21\\brutalism_0050.jpg",
+      "size": 147183,
+      "uploadedAt": "2025-12-25T08:55:39.275Z"
+    },
+    "images/22/brutalism_0026.jpg": {
+      "r2Key": "images/22/brutalism_0026.jpg",
+      "localPath": "22\\brutalism_0026.jpg",
+      "size": 250480,
+      "uploadedAt": "2025-12-25T08:55:41.340Z"
+    },
+    "images/22/brutalism_0140.jpg": {
+      "r2Key": "images/22/brutalism_0140.jpg",
+      "localPath": "22\\brutalism_0140.jpg",
+      "size": 176822,
+      "uploadedAt": "2025-12-25T08:55:43.292Z"
+    },
+    "images/23/brutalism_0156.jpg": {
+      "r2Key": "images/23/brutalism_0156.jpg",
+      "localPath": "23\\brutalism_0156.jpg",
+      "size": 144245,
+      "uploadedAt": "2025-12-25T08:55:44.922Z"
+    },
+    "images/24/brutalism_0200.jpg": {
+      "r2Key": "images/24/brutalism_0200.jpg",
+      "localPath": "24\\brutalism_0200.jpg",
+      "size": 197453,
+      "uploadedAt": "2025-12-25T08:55:46.414Z"
+    },
+    "images/28/brutalism_0003.jpg": {
+      "r2Key": "images/28/brutalism_0003.jpg",
+      "localPath": "28\\brutalism_0003.jpg",
+      "size": 234652,
+      "uploadedAt": "2025-12-25T08:55:48.070Z"
+    },
+    "images/28/brutalism_0143.jpg": {
+      "r2Key": "images/28/brutalism_0143.jpg",
+      "localPath": "28\\brutalism_0143.jpg",
+      "size": 156706,
+      "uploadedAt": "2025-12-25T08:55:49.592Z"
+    },
+    "images/28/brutalism_0247.jpg": {
+      "r2Key": "images/28/brutalism_0247.jpg",
+      "localPath": "28\\brutalism_0247.jpg",
+      "size": 217508,
+      "uploadedAt": "2025-12-25T08:55:51.070Z"
+    },
+    "images/2a/brutalism_0111.jpg": {
+      "r2Key": "images/2a/brutalism_0111.jpg",
+      "localPath": "2a\\brutalism_0111.jpg",
+      "size": 158627,
+      "uploadedAt": "2025-12-25T08:55:52.808Z"
+    },
+    "images/2c/brutalism_0055.jpg": {
+      "r2Key": "images/2c/brutalism_0055.jpg",
+      "localPath": "2c\\brutalism_0055.jpg",
+      "size": 227632,
+      "uploadedAt": "2025-12-25T08:55:54.489Z"
+    },
+    "images/2c/brutalism_0059.jpg": {
+      "r2Key": "images/2c/brutalism_0059.jpg",
+      "localPath": "2c\\brutalism_0059.jpg",
+      "size": 231501,
+      "uploadedAt": "2025-12-25T08:55:56.064Z"
+    },
+    "images/2c/brutalism_0119.jpg": {
+      "r2Key": "images/2c/brutalism_0119.jpg",
+      "localPath": "2c\\brutalism_0119.jpg",
+      "size": 125595,
+      "uploadedAt": "2025-12-25T08:55:57.565Z"
+    },
+    "images/2d/brutalism_0196.jpg": {
+      "r2Key": "images/2d/brutalism_0196.jpg",
+      "localPath": "2d\\brutalism_0196.jpg",
+      "size": 179566,
+      "uploadedAt": "2025-12-25T08:55:59.146Z"
+    },
+    "images/2d/brutalism_0212.jpg": {
+      "r2Key": "images/2d/brutalism_0212.jpg",
+      "localPath": "2d\\brutalism_0212.jpg",
+      "size": 114797,
+      "uploadedAt": "2025-12-25T08:56:00.830Z"
+    },
+    "images/2e/brutalism_0148.jpg": {
+      "r2Key": "images/2e/brutalism_0148.jpg",
+      "localPath": "2e\\brutalism_0148.jpg",
+      "size": 69159,
+      "uploadedAt": "2025-12-25T08:56:02.422Z"
+    },
+    "images/2e/brutalism_0256.jpg": {
+      "r2Key": "images/2e/brutalism_0256.jpg",
+      "localPath": "2e\\brutalism_0256.jpg",
+      "size": 96152,
+      "uploadedAt": "2025-12-25T08:56:03.833Z"
+    },
+    "images/30/brutalism_0028.jpg": {
+      "r2Key": "images/30/brutalism_0028.jpg",
+      "localPath": "30\\brutalism_0028.jpg",
+      "size": 201187,
+      "uploadedAt": "2025-12-25T08:56:05.338Z"
+    },
+    "images/32/brutalism_0114.jpg": {
+      "r2Key": "images/32/brutalism_0114.jpg",
+      "localPath": "32\\brutalism_0114.jpg",
+      "size": 235755,
+      "uploadedAt": "2025-12-25T08:56:06.945Z"
+    },
+    "images/33/brutalism_0149.jpg": {
+      "r2Key": "images/33/brutalism_0149.jpg",
+      "localPath": "33\\brutalism_0149.jpg",
+      "size": 164083,
+      "uploadedAt": "2025-12-25T08:56:08.558Z"
+    },
+    "images/34/brutalism_0162.jpg": {
+      "r2Key": "images/34/brutalism_0162.jpg",
+      "localPath": "34\\brutalism_0162.jpg",
+      "size": 199867,
+      "uploadedAt": "2025-12-25T08:56:10.229Z"
+    },
+    "images/34/brutalism_0191.jpg": {
+      "r2Key": "images/34/brutalism_0191.jpg",
+      "localPath": "34\\brutalism_0191.jpg",
+      "size": 166707,
+      "uploadedAt": "2025-12-25T08:56:12.254Z"
+    },
+    "images/34/brutalism_0223.jpg": {
+      "r2Key": "images/34/brutalism_0223.jpg",
+      "localPath": "34\\brutalism_0223.jpg",
+      "size": 129734,
+      "uploadedAt": "2025-12-25T08:56:13.733Z"
+    },
+    "images/36/brutalism_0297.jpg": {
+      "r2Key": "images/36/brutalism_0297.jpg",
+      "localPath": "36\\brutalism_0297.jpg",
+      "size": 229639,
+      "uploadedAt": "2025-12-25T08:56:15.322Z"
+    },
+    "images/37/brutalism_0180.jpg": {
+      "r2Key": "images/37/brutalism_0180.jpg",
+      "localPath": "37\\brutalism_0180.jpg",
+      "size": 142608,
+      "uploadedAt": "2025-12-25T08:56:16.749Z"
+    },
+    "images/38/brutalism_0074.jpg": {
+      "r2Key": "images/38/brutalism_0074.jpg",
+      "localPath": "38\\brutalism_0074.jpg",
+      "size": 154867,
+      "uploadedAt": "2025-12-25T08:56:18.176Z"
+    },
+    "images/38/brutalism_0220.jpg": {
+      "r2Key": "images/38/brutalism_0220.jpg",
+      "localPath": "38\\brutalism_0220.jpg",
+      "size": 160551,
+      "uploadedAt": "2025-12-25T08:56:19.658Z"
+    },
+    "images/39/brutalism_0039.jpg": {
+      "r2Key": "images/39/brutalism_0039.jpg",
+      "localPath": "39\\brutalism_0039.jpg",
+      "size": 138644,
+      "uploadedAt": "2025-12-25T08:56:21.715Z"
+    },
+    "images/39/brutalism_0100.jpg": {
+      "r2Key": "images/39/brutalism_0100.jpg",
+      "localPath": "39\\brutalism_0100.jpg",
+      "size": 167472,
+      "uploadedAt": "2025-12-25T08:56:23.404Z"
+    },
+    "images/3a/brutalism_0092.jpg": {
+      "r2Key": "images/3a/brutalism_0092.jpg",
+      "localPath": "3a\\brutalism_0092.jpg",
+      "size": 209531,
+      "uploadedAt": "2025-12-25T08:56:24.888Z"
+    },
+    "images/3b/brutalism_0226.jpg": {
+      "r2Key": "images/3b/brutalism_0226.jpg",
+      "localPath": "3b\\brutalism_0226.jpg",
+      "size": 228547,
+      "uploadedAt": "2025-12-25T08:56:26.271Z"
+    },
+    "images/3b/brutalism_0235.jpg": {
+      "r2Key": "images/3b/brutalism_0235.jpg",
+      "localPath": "3b\\brutalism_0235.jpg",
+      "size": 144477,
+      "uploadedAt": "2025-12-25T08:56:27.686Z"
+    },
+    "images/3c/brutalism_0057.jpg": {
+      "r2Key": "images/3c/brutalism_0057.jpg",
+      "localPath": "3c\\brutalism_0057.jpg",
+      "size": 178740,
+      "uploadedAt": "2025-12-25T08:56:29.220Z"
+    },
+    "images/3c/brutalism_0186.jpg": {
+      "r2Key": "images/3c/brutalism_0186.jpg",
+      "localPath": "3c\\brutalism_0186.jpg",
+      "size": 224439,
+      "uploadedAt": "2025-12-25T08:56:30.863Z"
+    },
+    "images/3e/brutalism_0038.jpg": {
+      "r2Key": "images/3e/brutalism_0038.jpg",
+      "localPath": "3e\\brutalism_0038.jpg",
+      "size": 146362,
+      "uploadedAt": "2025-12-25T08:56:32.502Z"
+    },
+    "images/3f/brutalism_0120.jpg": {
+      "r2Key": "images/3f/brutalism_0120.jpg",
+      "localPath": "3f\\brutalism_0120.jpg",
+      "size": 105569,
+      "uploadedAt": "2025-12-25T08:56:34.386Z"
+    },
+    "images/3f/brutalism_0138.jpg": {
+      "r2Key": "images/3f/brutalism_0138.jpg",
+      "localPath": "3f\\brutalism_0138.jpg",
+      "size": 197250,
+      "uploadedAt": "2025-12-25T08:56:35.810Z"
+    },
+    "images/40/brutalism_0049.jpg": {
+      "r2Key": "images/40/brutalism_0049.jpg",
+      "localPath": "40\\brutalism_0049.jpg",
+      "size": 217008,
+      "uploadedAt": "2025-12-25T08:56:37.266Z"
+    },
+    "images/41/brutalism_0041.jpg": {
+      "r2Key": "images/41/brutalism_0041.jpg",
+      "localPath": "41\\brutalism_0041.jpg",
+      "size": 228173,
+      "uploadedAt": "2025-12-25T08:56:38.822Z"
+    },
+    "images/41/brutalism_0188.jpg": {
+      "r2Key": "images/41/brutalism_0188.jpg",
+      "localPath": "41\\brutalism_0188.jpg",
+      "size": 178587,
+      "uploadedAt": "2025-12-25T08:56:40.478Z"
+    },
+    "images/45/brutalism_0099.jpg": {
+      "r2Key": "images/45/brutalism_0099.jpg",
+      "localPath": "45\\brutalism_0099.jpg",
+      "size": 237300,
+      "uploadedAt": "2025-12-25T08:56:41.926Z"
+    },
+    "images/47/brutalism_0116.jpg": {
+      "r2Key": "images/47/brutalism_0116.jpg",
+      "localPath": "47\\brutalism_0116.jpg",
+      "size": 134425,
+      "uploadedAt": "2025-12-25T08:56:43.405Z"
+    },
+    "images/47/brutalism_0264.jpg": {
+      "r2Key": "images/47/brutalism_0264.jpg",
+      "localPath": "47\\brutalism_0264.jpg",
+      "size": 132140,
+      "uploadedAt": "2025-12-25T08:56:44.873Z"
+    },
+    "images/49/brutalism_0259.jpg": {
+      "r2Key": "images/49/brutalism_0259.jpg",
+      "localPath": "49\\brutalism_0259.jpg",
+      "size": 230592,
+      "uploadedAt": "2025-12-25T08:56:46.399Z"
+    },
+    "images/4a/brutalism_0086.jpg": {
+      "r2Key": "images/4a/brutalism_0086.jpg",
+      "localPath": "4a\\brutalism_0086.jpg",
+      "size": 150703,
+      "uploadedAt": "2025-12-25T08:56:47.849Z"
+    },
+    "images/4a/brutalism_0179.jpg": {
+      "r2Key": "images/4a/brutalism_0179.jpg",
+      "localPath": "4a\\brutalism_0179.jpg",
+      "size": 150113,
+      "uploadedAt": "2025-12-25T08:56:49.365Z"
+    },
+    "images/4b/brutalism_0228.jpg": {
+      "r2Key": "images/4b/brutalism_0228.jpg",
+      "localPath": "4b\\brutalism_0228.jpg",
+      "size": 132193,
+      "uploadedAt": "2025-12-25T08:56:50.843Z"
+    },
+    "images/4c/brutalism_0011.jpg": {
+      "r2Key": "images/4c/brutalism_0011.jpg",
+      "localPath": "4c\\brutalism_0011.jpg",
+      "size": 222017,
+      "uploadedAt": "2025-12-25T08:56:52.344Z"
+    },
+    "images/4c/brutalism_0069.jpg": {
+      "r2Key": "images/4c/brutalism_0069.jpg",
+      "localPath": "4c\\brutalism_0069.jpg",
+      "size": 117888,
+      "uploadedAt": "2025-12-25T08:56:53.749Z"
+    },
+    "images/4d/brutalism_0007.jpg": {
+      "r2Key": "images/4d/brutalism_0007.jpg",
+      "localPath": "4d\\brutalism_0007.jpg",
+      "size": 166346,
+      "uploadedAt": "2025-12-25T08:56:55.186Z"
+    },
+    "images/4e/brutalism_0159.jpg": {
+      "r2Key": "images/4e/brutalism_0159.jpg",
+      "localPath": "4e\\brutalism_0159.jpg",
+      "size": 182916,
+      "uploadedAt": "2025-12-25T08:56:56.699Z"
+    },
+    "images/51/brutalism_0128.jpg": {
+      "r2Key": "images/51/brutalism_0128.jpg",
+      "localPath": "51\\brutalism_0128.jpg",
+      "size": 111586,
+      "uploadedAt": "2025-12-25T08:56:58.300Z"
+    },
+    "images/51/brutalism_0174.jpg": {
+      "r2Key": "images/51/brutalism_0174.jpg",
+      "localPath": "51\\brutalism_0174.jpg",
+      "size": 149742,
+      "uploadedAt": "2025-12-25T08:56:59.810Z"
+    },
+    "images/52/brutalism_0089.jpg": {
+      "r2Key": "images/52/brutalism_0089.jpg",
+      "localPath": "52\\brutalism_0089.jpg",
+      "size": 258531,
+      "uploadedAt": "2025-12-25T08:57:01.292Z"
+    },
+    "images/52/brutalism_0113.jpg": {
+      "r2Key": "images/52/brutalism_0113.jpg",
+      "localPath": "52\\brutalism_0113.jpg",
+      "size": 124427,
+      "uploadedAt": "2025-12-25T08:57:02.767Z"
+    },
+    "images/52/brutalism_0124.jpg": {
+      "r2Key": "images/52/brutalism_0124.jpg",
+      "localPath": "52\\brutalism_0124.jpg",
+      "size": 198937,
+      "uploadedAt": "2025-12-25T08:57:04.636Z"
+    },
+    "images/52/brutalism_0161.jpg": {
+      "r2Key": "images/52/brutalism_0161.jpg",
+      "localPath": "52\\brutalism_0161.jpg",
+      "size": 193962,
+      "uploadedAt": "2025-12-25T08:57:06.181Z"
+    },
+    "images/53/brutalism_0064.jpg": {
+      "r2Key": "images/53/brutalism_0064.jpg",
+      "localPath": "53\\brutalism_0064.jpg",
+      "size": 214773,
+      "uploadedAt": "2025-12-25T08:57:07.671Z"
+    },
+    "images/53/brutalism_0171.jpg": {
+      "r2Key": "images/53/brutalism_0171.jpg",
+      "localPath": "53\\brutalism_0171.jpg",
+      "size": 206293,
+      "uploadedAt": "2025-12-25T08:57:09.151Z"
+    },
+    "images/53/brutalism_0290.jpg": {
+      "r2Key": "images/53/brutalism_0290.jpg",
+      "localPath": "53\\brutalism_0290.jpg",
+      "size": 127616,
+      "uploadedAt": "2025-12-25T08:57:10.592Z"
+    },
+    "images/54/brutalism_0272.jpg": {
+      "r2Key": "images/54/brutalism_0272.jpg",
+      "localPath": "54\\brutalism_0272.jpg",
+      "size": 144779,
+      "uploadedAt": "2025-12-25T08:57:12.079Z"
+    },
+    "images/57/brutalism_0040.jpg": {
+      "r2Key": "images/57/brutalism_0040.jpg",
+      "localPath": "57\\brutalism_0040.jpg",
+      "size": 160694,
+      "uploadedAt": "2025-12-25T08:57:13.575Z"
+    },
+    "images/57/brutalism_0093.jpg": {
+      "r2Key": "images/57/brutalism_0093.jpg",
+      "localPath": "57\\brutalism_0093.jpg",
+      "size": 191912,
+      "uploadedAt": "2025-12-25T08:57:15.312Z"
+    },
+    "images/57/brutalism_0246.jpg": {
+      "r2Key": "images/57/brutalism_0246.jpg",
+      "localPath": "57\\brutalism_0246.jpg",
+      "size": 193865,
+      "uploadedAt": "2025-12-25T08:57:16.860Z"
+    },
+    "images/57/brutalism_0299.jpg": {
+      "r2Key": "images/57/brutalism_0299.jpg",
+      "localPath": "57\\brutalism_0299.jpg",
+      "size": 191295,
+      "uploadedAt": "2025-12-25T08:57:18.427Z"
+    },
+    "images/59/brutalism_0034.jpg": {
+      "r2Key": "images/59/brutalism_0034.jpg",
+      "localPath": "59\\brutalism_0034.jpg",
+      "size": 180973,
+      "uploadedAt": "2025-12-25T08:57:20.172Z"
+    },
+    "images/5c/brutalism_0125.jpg": {
+      "r2Key": "images/5c/brutalism_0125.jpg",
+      "localPath": "5c\\brutalism_0125.jpg",
+      "size": 172867,
+      "uploadedAt": "2025-12-25T08:57:21.721Z"
+    },
+    "images/5c/brutalism_0280.jpg": {
+      "r2Key": "images/5c/brutalism_0280.jpg",
+      "localPath": "5c\\brutalism_0280.jpg",
+      "size": 205895,
+      "uploadedAt": "2025-12-25T08:57:23.184Z"
+    },
+    "images/5e/brutalism_0150.jpg": {
+      "r2Key": "images/5e/brutalism_0150.jpg",
+      "localPath": "5e\\brutalism_0150.jpg",
+      "size": 206289,
+      "uploadedAt": "2025-12-25T08:57:24.688Z"
+    },
+    "images/5e/brutalism_0175.jpg": {
+      "r2Key": "images/5e/brutalism_0175.jpg",
+      "localPath": "5e\\brutalism_0175.jpg",
+      "size": 193633,
+      "uploadedAt": "2025-12-25T08:57:26.113Z"
+    },
+    "images/5f/brutalism_0252.jpg": {
+      "r2Key": "images/5f/brutalism_0252.jpg",
+      "localPath": "5f\\brutalism_0252.jpg",
+      "size": 113226,
+      "uploadedAt": "2025-12-25T08:57:27.580Z"
+    },
+    "images/60/brutalism_0245.jpg": {
+      "r2Key": "images/60/brutalism_0245.jpg",
+      "localPath": "60\\brutalism_0245.jpg",
+      "size": 165546,
+      "uploadedAt": "2025-12-25T08:57:29.106Z"
+    },
+    "images/61/brutalism_0103.jpg": {
+      "r2Key": "images/61/brutalism_0103.jpg",
+      "localPath": "61\\brutalism_0103.jpg",
+      "size": 175273,
+      "uploadedAt": "2025-12-25T08:57:30.521Z"
+    },
+    "images/61/brutalism_0182.jpg": {
+      "r2Key": "images/61/brutalism_0182.jpg",
+      "localPath": "61\\brutalism_0182.jpg",
+      "size": 209893,
+      "uploadedAt": "2025-12-25T08:57:31.996Z"
+    },
+    "images/61/brutalism_0284.jpg": {
+      "r2Key": "images/61/brutalism_0284.jpg",
+      "localPath": "61\\brutalism_0284.jpg",
+      "size": 78688,
+      "uploadedAt": "2025-12-25T08:57:33.438Z"
+    },
+    "images/61/brutalism_0285.jpg": {
+      "r2Key": "images/61/brutalism_0285.jpg",
+      "localPath": "61\\brutalism_0285.jpg",
+      "size": 149541,
+      "uploadedAt": "2025-12-25T08:57:34.848Z"
+    },
+    "images/62/brutalism_0242.jpg": {
+      "r2Key": "images/62/brutalism_0242.jpg",
+      "localPath": "62\\brutalism_0242.jpg",
+      "size": 174452,
+      "uploadedAt": "2025-12-25T08:57:36.338Z"
+    },
+    "images/63/brutalism_0279.jpg": {
+      "r2Key": "images/63/brutalism_0279.jpg",
+      "localPath": "63\\brutalism_0279.jpg",
+      "size": 159078,
+      "uploadedAt": "2025-12-25T08:57:37.925Z"
+    },
+    "images/64/brutalism_0158.jpg": {
+      "r2Key": "images/64/brutalism_0158.jpg",
+      "localPath": "64\\brutalism_0158.jpg",
+      "size": 225309,
+      "uploadedAt": "2025-12-25T08:57:39.536Z"
+    },
+    "images/65/brutalism_0079.jpg": {
+      "r2Key": "images/65/brutalism_0079.jpg",
+      "localPath": "65\\brutalism_0079.jpg",
+      "size": 159458,
+      "uploadedAt": "2025-12-25T08:57:40.963Z"
+    },
+    "images/67/brutalism_0181.jpg": {
+      "r2Key": "images/67/brutalism_0181.jpg",
+      "localPath": "67\\brutalism_0181.jpg",
+      "size": 269564,
+      "uploadedAt": "2025-12-25T08:57:42.539Z"
+    },
+    "images/69/brutalism_0070.jpg": {
+      "r2Key": "images/69/brutalism_0070.jpg",
+      "localPath": "69\\brutalism_0070.jpg",
+      "size": 256324,
+      "uploadedAt": "2025-12-25T08:57:44.201Z"
+    },
+    "images/6a/brutalism_0255.jpg": {
+      "r2Key": "images/6a/brutalism_0255.jpg",
+      "localPath": "6a\\brutalism_0255.jpg",
+      "size": 196277,
+      "uploadedAt": "2025-12-25T08:57:45.588Z"
+    },
+    "images/6d/brutalism_0096.jpg": {
+      "r2Key": "images/6d/brutalism_0096.jpg",
+      "localPath": "6d\\brutalism_0096.jpg",
+      "size": 77004,
+      "uploadedAt": "2025-12-25T08:57:47.162Z"
+    },
+    "images/6d/brutalism_0145.jpg": {
+      "r2Key": "images/6d/brutalism_0145.jpg",
+      "localPath": "6d\\brutalism_0145.jpg",
+      "size": 194372,
+      "uploadedAt": "2025-12-25T08:57:48.613Z"
+    },
+    "images/6e/brutalism_0260.jpg": {
+      "r2Key": "images/6e/brutalism_0260.jpg",
+      "localPath": "6e\\brutalism_0260.jpg",
+      "size": 188284,
+      "uploadedAt": "2025-12-25T08:57:50.017Z"
+    },
+    "images/6f/brutalism_0097.jpg": {
+      "r2Key": "images/6f/brutalism_0097.jpg",
+      "localPath": "6f\\brutalism_0097.jpg",
+      "size": 185162,
+      "uploadedAt": "2025-12-25T08:57:51.508Z"
+    },
+    "images/6f/brutalism_0206.jpg": {
+      "r2Key": "images/6f/brutalism_0206.jpg",
+      "localPath": "6f\\brutalism_0206.jpg",
+      "size": 202449,
+      "uploadedAt": "2025-12-25T08:57:53.025Z"
+    },
+    "images/72/brutalism_0051.jpg": {
+      "r2Key": "images/72/brutalism_0051.jpg",
+      "localPath": "72\\brutalism_0051.jpg",
+      "size": 140780,
+      "uploadedAt": "2025-12-25T08:57:54.541Z"
+    },
+    "images/72/brutalism_0176.jpg": {
+      "r2Key": "images/72/brutalism_0176.jpg",
+      "localPath": "72\\brutalism_0176.jpg",
+      "size": 118739,
+      "uploadedAt": "2025-12-25T08:57:56.065Z"
+    },
+    "images/72/brutalism_0197.jpg": {
+      "r2Key": "images/72/brutalism_0197.jpg",
+      "localPath": "72\\brutalism_0197.jpg",
+      "size": 235791,
+      "uploadedAt": "2025-12-25T08:57:57.521Z"
+    },
+    "images/72/brutalism_0244.jpg": {
+      "r2Key": "images/72/brutalism_0244.jpg",
+      "localPath": "72\\brutalism_0244.jpg",
+      "size": 102862,
+      "uploadedAt": "2025-12-25T08:57:59.120Z"
+    },
+    "images/73/brutalism_0253.jpg": {
+      "r2Key": "images/73/brutalism_0253.jpg",
+      "localPath": "73\\brutalism_0253.jpg",
+      "size": 246377,
+      "uploadedAt": "2025-12-25T08:58:00.767Z"
+    },
+    "images/74/brutalism_0019.jpg": {
+      "r2Key": "images/74/brutalism_0019.jpg",
+      "localPath": "74\\brutalism_0019.jpg",
+      "size": 230716,
+      "uploadedAt": "2025-12-25T08:58:02.401Z"
+    },
+    "images/74/brutalism_0153.jpg": {
+      "r2Key": "images/74/brutalism_0153.jpg",
+      "localPath": "74\\brutalism_0153.jpg",
+      "size": 211462,
+      "uploadedAt": "2025-12-25T08:58:04.408Z"
+    },
+    "images/74/brutalism_0177.jpg": {
+      "r2Key": "images/74/brutalism_0177.jpg",
+      "localPath": "74\\brutalism_0177.jpg",
+      "size": 168771,
+      "uploadedAt": "2025-12-25T08:58:05.897Z"
+    },
+    "images/76/brutalism_0248.jpg": {
+      "r2Key": "images/76/brutalism_0248.jpg",
+      "localPath": "76\\brutalism_0248.jpg",
+      "size": 185668,
+      "uploadedAt": "2025-12-25T08:58:07.359Z"
+    },
+    "images/76/brutalism_0276.jpg": {
+      "r2Key": "images/76/brutalism_0276.jpg",
+      "localPath": "76\\brutalism_0276.jpg",
+      "size": 143907,
+      "uploadedAt": "2025-12-25T08:58:08.800Z"
+    },
+    "images/77/brutalism_0164.jpg": {
+      "r2Key": "images/77/brutalism_0164.jpg",
+      "localPath": "77\\brutalism_0164.jpg",
+      "size": 94702,
+      "uploadedAt": "2025-12-25T08:58:10.204Z"
+    },
+    "images/77/brutalism_0218.jpg": {
+      "r2Key": "images/77/brutalism_0218.jpg",
+      "localPath": "77\\brutalism_0218.jpg",
+      "size": 191014,
+      "uploadedAt": "2025-12-25T08:58:11.681Z"
+    },
+    "images/78/brutalism_0023.jpg": {
+      "r2Key": "images/78/brutalism_0023.jpg",
+      "localPath": "78\\brutalism_0023.jpg",
+      "size": 285133,
+      "uploadedAt": "2025-12-25T08:58:13.250Z"
+    },
+    "images/78/brutalism_0025.jpg": {
+      "r2Key": "images/78/brutalism_0025.jpg",
+      "localPath": "78\\brutalism_0025.jpg",
+      "size": 161052,
+      "uploadedAt": "2025-12-25T08:58:14.667Z"
+    },
+    "images/79/brutalism_0082.jpg": {
+      "r2Key": "images/79/brutalism_0082.jpg",
+      "localPath": "79\\brutalism_0082.jpg",
+      "size": 80290,
+      "uploadedAt": "2025-12-25T08:58:16.290Z"
+    },
+    "images/79/brutalism_0293.jpg": {
+      "r2Key": "images/79/brutalism_0293.jpg",
+      "localPath": "79\\brutalism_0293.jpg",
+      "size": 220196,
+      "uploadedAt": "2025-12-25T08:58:18.201Z"
+    },
+    "images/7a/brutalism_0266.jpg": {
+      "r2Key": "images/7a/brutalism_0266.jpg",
+      "localPath": "7a\\brutalism_0266.jpg",
+      "size": 173615,
+      "uploadedAt": "2025-12-25T08:58:19.789Z"
+    },
+    "images/7c/brutalism_0068.jpg": {
+      "r2Key": "images/7c/brutalism_0068.jpg",
+      "localPath": "7c\\brutalism_0068.jpg",
+      "size": 242389,
+      "uploadedAt": "2025-12-25T08:58:21.239Z"
+    },
+    "images/7e/brutalism_0167.jpg": {
+      "r2Key": "images/7e/brutalism_0167.jpg",
+      "localPath": "7e\\brutalism_0167.jpg",
+      "size": 209923,
+      "uploadedAt": "2025-12-25T08:58:23.042Z"
+    },
+    "images/7f/brutalism_0066.jpg": {
+      "r2Key": "images/7f/brutalism_0066.jpg",
+      "localPath": "7f\\brutalism_0066.jpg",
+      "size": 110784,
+      "uploadedAt": "2025-12-25T08:58:24.721Z"
+    },
+    "images/80/brutalism_0030.jpg": {
+      "r2Key": "images/80/brutalism_0030.jpg",
+      "localPath": "80\\brutalism_0030.jpg",
+      "size": 227091,
+      "uploadedAt": "2025-12-25T08:58:26.251Z"
+    },
+    "images/81/brutalism_0257.jpg": {
+      "r2Key": "images/81/brutalism_0257.jpg",
+      "localPath": "81\\brutalism_0257.jpg",
+      "size": 266992,
+      "uploadedAt": "2025-12-25T08:58:27.888Z"
+    },
+    "images/82/brutalism_0236.jpg": {
+      "r2Key": "images/82/brutalism_0236.jpg",
+      "localPath": "82\\brutalism_0236.jpg",
+      "size": 147233,
+      "uploadedAt": "2025-12-25T08:58:29.681Z"
+    },
+    "images/83/brutalism_0012.jpg": {
+      "r2Key": "images/83/brutalism_0012.jpg",
+      "localPath": "83\\brutalism_0012.jpg",
+      "size": 226483,
+      "uploadedAt": "2025-12-25T08:58:31.365Z"
+    },
+    "images/84/brutalism_0292.jpg": {
+      "r2Key": "images/84/brutalism_0292.jpg",
+      "localPath": "84\\brutalism_0292.jpg",
+      "size": 251139,
+      "uploadedAt": "2025-12-25T08:58:33.030Z"
+    },
+    "images/85/brutalism_0240.jpg": {
+      "r2Key": "images/85/brutalism_0240.jpg",
+      "localPath": "85\\brutalism_0240.jpg",
+      "size": 177048,
+      "uploadedAt": "2025-12-25T08:58:34.527Z"
+    },
+    "images/86/brutalism_0107.jpg": {
+      "r2Key": "images/86/brutalism_0107.jpg",
+      "localPath": "86\\brutalism_0107.jpg",
+      "size": 235100,
+      "uploadedAt": "2025-12-25T08:58:36.155Z"
+    },
+    "images/88/brutalism_0224.jpg": {
+      "r2Key": "images/88/brutalism_0224.jpg",
+      "localPath": "88\\brutalism_0224.jpg",
+      "size": 189443,
+      "uploadedAt": "2025-12-25T08:58:37.650Z"
+    },
+    "images/8a/brutalism_0014.jpg": {
+      "r2Key": "images/8a/brutalism_0014.jpg",
+      "localPath": "8a\\brutalism_0014.jpg",
+      "size": 236549,
+      "uploadedAt": "2025-12-25T08:58:39.229Z"
+    },
+    "images/8c/brutalism_0083.jpg": {
+      "r2Key": "images/8c/brutalism_0083.jpg",
+      "localPath": "8c\\brutalism_0083.jpg",
+      "size": 174901,
+      "uploadedAt": "2025-12-25T08:58:40.686Z"
+    },
+    "images/8c/brutalism_0098.jpg": {
+      "r2Key": "images/8c/brutalism_0098.jpg",
+      "localPath": "8c\\brutalism_0098.jpg",
+      "size": 207476,
+      "uploadedAt": "2025-12-25T08:58:42.183Z"
+    },
+    "images/8c/brutalism_0198.jpg": {
+      "r2Key": "images/8c/brutalism_0198.jpg",
+      "localPath": "8c\\brutalism_0198.jpg",
+      "size": 156445,
+      "uploadedAt": "2025-12-25T08:58:43.669Z"
+    },
+    "images/8c/brutalism_0222.jpg": {
+      "r2Key": "images/8c/brutalism_0222.jpg",
+      "localPath": "8c\\brutalism_0222.jpg",
+      "size": 301822,
+      "uploadedAt": "2025-12-25T08:58:45.148Z"
+    },
+    "images/8d/brutalism_0061.jpg": {
+      "r2Key": "images/8d/brutalism_0061.jpg",
+      "localPath": "8d\\brutalism_0061.jpg",
+      "size": 163821,
+      "uploadedAt": "2025-12-25T08:58:46.595Z"
+    },
+    "images/8d/brutalism_0090.jpg": {
+      "r2Key": "images/8d/brutalism_0090.jpg",
+      "localPath": "8d\\brutalism_0090.jpg",
+      "size": 240340,
+      "uploadedAt": "2025-12-25T08:58:48.033Z"
+    },
+    "images/8d/brutalism_0106.jpg": {
+      "r2Key": "images/8d/brutalism_0106.jpg",
+      "localPath": "8d\\brutalism_0106.jpg",
+      "size": 172785,
+      "uploadedAt": "2025-12-25T08:58:49.555Z"
+    },
+    "images/8e/brutalism_0127.jpg": {
+      "r2Key": "images/8e/brutalism_0127.jpg",
+      "localPath": "8e\\brutalism_0127.jpg",
+      "size": 211075,
+      "uploadedAt": "2025-12-25T08:58:51.279Z"
+    },
+    "images/8f/brutalism_0270.jpg": {
+      "r2Key": "images/8f/brutalism_0270.jpg",
+      "localPath": "8f\\brutalism_0270.jpg",
+      "size": 161988,
+      "uploadedAt": "2025-12-25T08:58:52.910Z"
+    },
+    "images/90/brutalism_0205.jpg": {
+      "r2Key": "images/90/brutalism_0205.jpg",
+      "localPath": "90\\brutalism_0205.jpg",
+      "size": 81922,
+      "uploadedAt": "2025-12-25T08:58:54.347Z"
+    },
+    "images/92/brutalism_0254.jpg": {
+      "r2Key": "images/92/brutalism_0254.jpg",
+      "localPath": "92\\brutalism_0254.jpg",
+      "size": 159269,
+      "uploadedAt": "2025-12-25T08:58:55.830Z"
+    },
+    "images/94/brutalism_0271.jpg": {
+      "r2Key": "images/94/brutalism_0271.jpg",
+      "localPath": "94\\brutalism_0271.jpg",
+      "size": 191694,
+      "uploadedAt": "2025-12-25T08:58:57.276Z"
+    },
+    "images/96/brutalism_0006.jpg": {
+      "r2Key": "images/96/brutalism_0006.jpg",
+      "localPath": "96\\brutalism_0006.jpg",
+      "size": 250244,
+      "uploadedAt": "2025-12-25T08:58:58.763Z"
+    },
+    "images/96/brutalism_0020.jpg": {
+      "r2Key": "images/96/brutalism_0020.jpg",
+      "localPath": "96\\brutalism_0020.jpg",
+      "size": 186042,
+      "uploadedAt": "2025-12-25T08:59:00.362Z"
+    },
+    "images/96/brutalism_0101.jpg": {
+      "r2Key": "images/96/brutalism_0101.jpg",
+      "localPath": "96\\brutalism_0101.jpg",
+      "size": 161769,
+      "uploadedAt": "2025-12-25T08:59:01.778Z"
+    },
+    "images/97/brutalism_0048.jpg": {
+      "r2Key": "images/97/brutalism_0048.jpg",
+      "localPath": "97\\brutalism_0048.jpg",
+      "size": 261047,
+      "uploadedAt": "2025-12-25T08:59:03.355Z"
+    },
+    "images/97/brutalism_0110.jpg": {
+      "r2Key": "images/97/brutalism_0110.jpg",
+      "localPath": "97\\brutalism_0110.jpg",
+      "size": 188178,
+      "uploadedAt": "2025-12-25T08:59:04.850Z"
+    },
+    "images/97/brutalism_0112.jpg": {
+      "r2Key": "images/97/brutalism_0112.jpg",
+      "localPath": "97\\brutalism_0112.jpg",
+      "size": 186620,
+      "uploadedAt": "2025-12-25T08:59:06.324Z"
+    },
+    "images/97/brutalism_0208.jpg": {
+      "r2Key": "images/97/brutalism_0208.jpg",
+      "localPath": "97\\brutalism_0208.jpg",
+      "size": 125815,
+      "uploadedAt": "2025-12-25T08:59:07.808Z"
+    },
+    "images/99/brutalism_0117.jpg": {
+      "r2Key": "images/99/brutalism_0117.jpg",
+      "localPath": "99\\brutalism_0117.jpg",
+      "size": 197038,
+      "uploadedAt": "2025-12-25T08:59:09.350Z"
+    },
+    "images/99/brutalism_0137.jpg": {
+      "r2Key": "images/99/brutalism_0137.jpg",
+      "localPath": "99\\brutalism_0137.jpg",
+      "size": 188052,
+      "uploadedAt": "2025-12-25T08:59:10.847Z"
+    },
+    "images/99/brutalism_0209.jpg": {
+      "r2Key": "images/99/brutalism_0209.jpg",
+      "localPath": "99\\brutalism_0209.jpg",
+      "size": 255735,
+      "uploadedAt": "2025-12-25T08:59:12.384Z"
+    },
+    "images/9a/brutalism_0229.jpg": {
+      "r2Key": "images/9a/brutalism_0229.jpg",
+      "localPath": "9a\\brutalism_0229.jpg",
+      "size": 235667,
+      "uploadedAt": "2025-12-25T08:59:13.812Z"
+    },
+    "images/9b/brutalism_0261.jpg": {
+      "r2Key": "images/9b/brutalism_0261.jpg",
+      "localPath": "9b\\brutalism_0261.jpg",
+      "size": 164617,
+      "uploadedAt": "2025-12-25T08:59:15.234Z"
+    },
+    "images/9c/brutalism_0194.jpg": {
+      "r2Key": "images/9c/brutalism_0194.jpg",
+      "localPath": "9c\\brutalism_0194.jpg",
+      "size": 214291,
+      "uploadedAt": "2025-12-25T08:59:16.613Z"
+    },
+    "images/9d/brutalism_0216.jpg": {
+      "r2Key": "images/9d/brutalism_0216.jpg",
+      "localPath": "9d\\brutalism_0216.jpg",
+      "size": 127624,
+      "uploadedAt": "2025-12-25T08:59:18.093Z"
+    },
+    "images/9f/brutalism_0238.jpg": {
+      "r2Key": "images/9f/brutalism_0238.jpg",
+      "localPath": "9f\\brutalism_0238.jpg",
+      "size": 145515,
+      "uploadedAt": "2025-12-25T08:59:19.739Z"
+    },
+    "images/a2/brutalism_0263.jpg": {
+      "r2Key": "images/a2/brutalism_0263.jpg",
+      "localPath": "a2\\brutalism_0263.jpg",
+      "size": 135878,
+      "uploadedAt": "2025-12-25T08:59:21.142Z"
+    },
+    "images/a4/brutalism_0109.jpg": {
+      "r2Key": "images/a4/brutalism_0109.jpg",
+      "localPath": "a4\\brutalism_0109.jpg",
+      "size": 199925,
+      "uploadedAt": "2025-12-25T08:59:22.731Z"
+    },
+    "images/a4/brutalism_0135.jpg": {
+      "r2Key": "images/a4/brutalism_0135.jpg",
+      "localPath": "a4\\brutalism_0135.jpg",
+      "size": 86877,
+      "uploadedAt": "2025-12-25T08:59:24.064Z"
+    },
+    "images/a4/brutalism_0185.jpg": {
+      "r2Key": "images/a4/brutalism_0185.jpg",
+      "localPath": "a4\\brutalism_0185.jpg",
+      "size": 154704,
+      "uploadedAt": "2025-12-25T08:59:25.509Z"
+    },
+    "images/a5/brutalism_0044.jpg": {
+      "r2Key": "images/a5/brutalism_0044.jpg",
+      "localPath": "a5\\brutalism_0044.jpg",
+      "size": 210897,
+      "uploadedAt": "2025-12-25T08:59:27.073Z"
+    },
+    "images/a5/brutalism_0203.jpg": {
+      "r2Key": "images/a5/brutalism_0203.jpg",
+      "localPath": "a5\\brutalism_0203.jpg",
+      "size": 157939,
+      "uploadedAt": "2025-12-25T08:59:28.669Z"
+    },
+    "images/a6/brutalism_0204.jpg": {
+      "r2Key": "images/a6/brutalism_0204.jpg",
+      "localPath": "a6\\brutalism_0204.jpg",
+      "size": 158993,
+      "uploadedAt": "2025-12-25T08:59:30.128Z"
+    },
+    "images/a6/brutalism_0289.jpg": {
+      "r2Key": "images/a6/brutalism_0289.jpg",
+      "localPath": "a6\\brutalism_0289.jpg",
+      "size": 177443,
+      "uploadedAt": "2025-12-25T08:59:31.539Z"
+    },
+    "images/a8/brutalism_0063.jpg": {
+      "r2Key": "images/a8/brutalism_0063.jpg",
+      "localPath": "a8\\brutalism_0063.jpg",
+      "size": 213013,
+      "uploadedAt": "2025-12-25T08:59:33.020Z"
+    },
+    "images/a8/brutalism_0231.jpg": {
+      "r2Key": "images/a8/brutalism_0231.jpg",
+      "localPath": "a8\\brutalism_0231.jpg",
+      "size": 168498,
+      "uploadedAt": "2025-12-25T08:59:34.593Z"
+    },
+    "images/aa/brutalism_0084.jpg": {
+      "r2Key": "images/aa/brutalism_0084.jpg",
+      "localPath": "aa\\brutalism_0084.jpg",
+      "size": 209591,
+      "uploadedAt": "2025-12-25T08:59:36.065Z"
+    },
+    "images/aa/brutalism_0085.jpg": {
+      "r2Key": "images/aa/brutalism_0085.jpg",
+      "localPath": "aa\\brutalism_0085.jpg",
+      "size": 228616,
+      "uploadedAt": "2025-12-25T08:59:37.563Z"
+    },
+    "images/aa/brutalism_0132.jpg": {
+      "r2Key": "images/aa/brutalism_0132.jpg",
+      "localPath": "aa\\brutalism_0132.jpg",
+      "size": 176556,
+      "uploadedAt": "2025-12-25T08:59:39.012Z"
+    },
+    "images/aa/brutalism_0258.jpg": {
+      "r2Key": "images/aa/brutalism_0258.jpg",
+      "localPath": "aa\\brutalism_0258.jpg",
+      "size": 212147,
+      "uploadedAt": "2025-12-25T08:59:40.521Z"
+    },
+    "images/ad/brutalism_0065.jpg": {
+      "r2Key": "images/ad/brutalism_0065.jpg",
+      "localPath": "ad\\brutalism_0065.jpg",
+      "size": 92487,
+      "uploadedAt": "2025-12-25T08:59:41.934Z"
+    },
+    "images/ad/brutalism_0134.jpg": {
+      "r2Key": "images/ad/brutalism_0134.jpg",
+      "localPath": "ad\\brutalism_0134.jpg",
+      "size": 214324,
+      "uploadedAt": "2025-12-25T08:59:43.359Z"
+    },
+    "images/b0/brutalism_0133.jpg": {
+      "r2Key": "images/b0/brutalism_0133.jpg",
+      "localPath": "b0\\brutalism_0133.jpg",
+      "size": 164460,
+      "uploadedAt": "2025-12-25T08:59:44.816Z"
+    },
+    "images/b0/brutalism_0141.jpg": {
+      "r2Key": "images/b0/brutalism_0141.jpg",
+      "localPath": "b0\\brutalism_0141.jpg",
+      "size": 211645,
+      "uploadedAt": "2025-12-25T08:59:46.260Z"
+    },
+    "images/b1/brutalism_0087.jpg": {
+      "r2Key": "images/b1/brutalism_0087.jpg",
+      "localPath": "b1\\brutalism_0087.jpg",
+      "size": 91493,
+      "uploadedAt": "2025-12-25T08:59:47.777Z"
+    },
+    "images/b4/brutalism_0021.jpg": {
+      "r2Key": "images/b4/brutalism_0021.jpg",
+      "localPath": "b4\\brutalism_0021.jpg",
+      "size": 169495,
+      "uploadedAt": "2025-12-25T08:59:49.397Z"
+    },
+    "images/b4/brutalism_0031.jpg": {
+      "r2Key": "images/b4/brutalism_0031.jpg",
+      "localPath": "b4\\brutalism_0031.jpg",
+      "size": 209399,
+      "uploadedAt": "2025-12-25T08:59:50.920Z"
+    },
+    "images/b4/brutalism_0037.jpg": {
+      "r2Key": "images/b4/brutalism_0037.jpg",
+      "localPath": "b4\\brutalism_0037.jpg",
+      "size": 185429,
+      "uploadedAt": "2025-12-25T08:59:52.486Z"
+    },
+    "images/b7/brutalism_0027.jpg": {
+      "r2Key": "images/b7/brutalism_0027.jpg",
+      "localPath": "b7\\brutalism_0027.jpg",
+      "size": 274816,
+      "uploadedAt": "2025-12-25T08:59:53.941Z"
+    },
+    "images/b7/brutalism_0217.jpg": {
+      "r2Key": "images/b7/brutalism_0217.jpg",
+      "localPath": "b7\\brutalism_0217.jpg",
+      "size": 68929,
+      "uploadedAt": "2025-12-25T08:59:55.317Z"
+    },
+    "images/b7/brutalism_0275.jpg": {
+      "r2Key": "images/b7/brutalism_0275.jpg",
+      "localPath": "b7\\brutalism_0275.jpg",
+      "size": 184917,
+      "uploadedAt": "2025-12-25T08:59:56.986Z"
+    },
+    "images/b9/brutalism_0189.jpg": {
+      "r2Key": "images/b9/brutalism_0189.jpg",
+      "localPath": "b9\\brutalism_0189.jpg",
+      "size": 154104,
+      "uploadedAt": "2025-12-25T08:59:58.505Z"
+    },
+    "images/ba/brutalism_0017.jpg": {
+      "r2Key": "images/ba/brutalism_0017.jpg",
+      "localPath": "ba\\brutalism_0017.jpg",
+      "size": 236357,
+      "uploadedAt": "2025-12-25T09:00:00.039Z"
+    },
+    "images/ba/brutalism_0142.jpg": {
+      "r2Key": "images/ba/brutalism_0142.jpg",
+      "localPath": "ba\\brutalism_0142.jpg",
+      "size": 252306,
+      "uploadedAt": "2025-12-25T09:00:01.713Z"
+    },
+    "images/bc/brutalism_0075.jpg": {
+      "r2Key": "images/bc/brutalism_0075.jpg",
+      "localPath": "bc\\brutalism_0075.jpg",
+      "size": 100206,
+      "uploadedAt": "2025-12-25T09:00:03.596Z"
+    },
+    "images/be/brutalism_0088.jpg": {
+      "r2Key": "images/be/brutalism_0088.jpg",
+      "localPath": "be\\brutalism_0088.jpg",
+      "size": 199492,
+      "uploadedAt": "2025-12-25T09:00:10.212Z"
+    },
+    "images/c0/brutalism_0013.jpg": {
+      "r2Key": "images/c0/brutalism_0013.jpg",
+      "localPath": "c0\\brutalism_0013.jpg",
+      "size": 199481,
+      "uploadedAt": "2025-12-25T09:00:12.282Z"
+    },
+    "images/c3/brutalism_0033.jpg": {
+      "r2Key": "images/c3/brutalism_0033.jpg",
+      "localPath": "c3\\brutalism_0033.jpg",
+      "size": 226054,
+      "uploadedAt": "2025-12-25T09:00:13.859Z"
+    },
+    "images/c4/brutalism_0225.jpg": {
+      "r2Key": "images/c4/brutalism_0225.jpg",
+      "localPath": "c4\\brutalism_0225.jpg",
+      "size": 201936,
+      "uploadedAt": "2025-12-25T09:00:15.598Z"
+    },
+    "images/c4/brutalism_0251.jpg": {
+      "r2Key": "images/c4/brutalism_0251.jpg",
+      "localPath": "c4\\brutalism_0251.jpg",
+      "size": 212841,
+      "uploadedAt": "2025-12-25T09:00:17.073Z"
+    },
+    "images/c4/brutalism_0300.jpg": {
+      "r2Key": "images/c4/brutalism_0300.jpg",
+      "localPath": "c4\\brutalism_0300.jpg",
+      "size": 231157,
+      "uploadedAt": "2025-12-25T09:00:19.509Z"
+    },
+    "images/c5/brutalism_0035.jpg": {
+      "r2Key": "images/c5/brutalism_0035.jpg",
+      "localPath": "c5\\brutalism_0035.jpg",
+      "size": 243313,
+      "uploadedAt": "2025-12-25T09:00:21.010Z"
+    },
+    "images/c5/brutalism_0291.jpg": {
+      "r2Key": "images/c5/brutalism_0291.jpg",
+      "localPath": "c5\\brutalism_0291.jpg",
+      "size": 147270,
+      "uploadedAt": "2025-12-25T09:00:22.819Z"
+    },
+    "images/c6/brutalism_0249.jpg": {
+      "r2Key": "images/c6/brutalism_0249.jpg",
+      "localPath": "c6\\brutalism_0249.jpg",
+      "size": 189985,
+      "uploadedAt": "2025-12-25T09:00:24.364Z"
+    },
+    "images/c8/brutalism_0005.jpg": {
+      "r2Key": "images/c8/brutalism_0005.jpg",
+      "localPath": "c8\\brutalism_0005.jpg",
+      "size": 198144,
+      "uploadedAt": "2025-12-25T09:00:25.774Z"
+    },
+    "images/c9/brutalism_0193.jpg": {
+      "r2Key": "images/c9/brutalism_0193.jpg",
+      "localPath": "c9\\brutalism_0193.jpg",
+      "size": 129763,
+      "uploadedAt": "2025-12-25T09:00:27.252Z"
+    },
+    "images/c9/brutalism_0234.jpg": {
+      "r2Key": "images/c9/brutalism_0234.jpg",
+      "localPath": "c9\\brutalism_0234.jpg",
+      "size": 168645,
+      "uploadedAt": "2025-12-25T09:00:28.816Z"
+    },
+    "images/cb/brutalism_0262.jpg": {
+      "r2Key": "images/cb/brutalism_0262.jpg",
+      "localPath": "cb\\brutalism_0262.jpg",
+      "size": 149197,
+      "uploadedAt": "2025-12-25T09:00:30.217Z"
+    },
+    "images/cc/brutalism_0169.jpg": {
+      "r2Key": "images/cc/brutalism_0169.jpg",
+      "localPath": "cc\\brutalism_0169.jpg",
+      "size": 236021,
+      "uploadedAt": "2025-12-25T09:00:31.796Z"
+    },
+    "images/cf/brutalism_0002.jpg": {
+      "r2Key": "images/cf/brutalism_0002.jpg",
+      "localPath": "cf\\brutalism_0002.jpg",
+      "size": 203173,
+      "uploadedAt": "2025-12-25T09:00:33.236Z"
+    },
+    "images/cf/brutalism_0042.jpg": {
+      "r2Key": "images/cf/brutalism_0042.jpg",
+      "localPath": "cf\\brutalism_0042.jpg",
+      "size": 160769,
+      "uploadedAt": "2025-12-25T09:00:34.717Z"
+    },
+    "images/cf/brutalism_0126.jpg": {
+      "r2Key": "images/cf/brutalism_0126.jpg",
+      "localPath": "cf\\brutalism_0126.jpg",
+      "size": 120890,
+      "uploadedAt": "2025-12-25T09:00:36.259Z"
+    },
+    "images/cf/brutalism_0286.jpg": {
+      "r2Key": "images/cf/brutalism_0286.jpg",
+      "localPath": "cf\\brutalism_0286.jpg",
+      "size": 156996,
+      "uploadedAt": "2025-12-25T09:00:37.917Z"
+    },
+    "images/cf/brutalism_0287.jpg": {
+      "r2Key": "images/cf/brutalism_0287.jpg",
+      "localPath": "cf\\brutalism_0287.jpg",
+      "size": 171519,
+      "uploadedAt": "2025-12-25T09:00:39.435Z"
+    },
+    "images/d0/brutalism_0136.jpg": {
+      "r2Key": "images/d0/brutalism_0136.jpg",
+      "localPath": "d0\\brutalism_0136.jpg",
+      "size": 158530,
+      "uploadedAt": "2025-12-25T09:00:40.924Z"
+    },
+    "images/d0/brutalism_0221.jpg": {
+      "r2Key": "images/d0/brutalism_0221.jpg",
+      "localPath": "d0\\brutalism_0221.jpg",
+      "size": 166274,
+      "uploadedAt": "2025-12-25T09:00:42.578Z"
+    },
+    "images/d0/brutalism_0243.jpg": {
+      "r2Key": "images/d0/brutalism_0243.jpg",
+      "localPath": "d0\\brutalism_0243.jpg",
+      "size": 182682,
+      "uploadedAt": "2025-12-25T09:00:44.168Z"
+    },
+    "images/d1/brutalism_0001.jpg": {
+      "r2Key": "images/d1/brutalism_0001.jpg",
+      "localPath": "d1\\brutalism_0001.jpg",
+      "size": 178639,
+      "uploadedAt": "2025-12-25T09:00:45.574Z"
+    },
+    "images/d3/brutalism_0227.jpg": {
+      "r2Key": "images/d3/brutalism_0227.jpg",
+      "localPath": "d3\\brutalism_0227.jpg",
+      "size": 76922,
+      "uploadedAt": "2025-12-25T09:00:47.007Z"
+    },
+    "images/d4/brutalism_0210.jpg": {
+      "r2Key": "images/d4/brutalism_0210.jpg",
+      "localPath": "d4\\brutalism_0210.jpg",
+      "size": 164666,
+      "uploadedAt": "2025-12-25T09:00:49.600Z"
+    },
+    "images/d4/brutalism_0213.jpg": {
+      "r2Key": "images/d4/brutalism_0213.jpg",
+      "localPath": "d4\\brutalism_0213.jpg",
+      "size": 125369,
+      "uploadedAt": "2025-12-25T09:00:51.023Z"
+    },
+    "images/d5/brutalism_0146.jpg": {
+      "r2Key": "images/d5/brutalism_0146.jpg",
+      "localPath": "d5\\brutalism_0146.jpg",
+      "size": 180868,
+      "uploadedAt": "2025-12-25T09:00:52.427Z"
+    },
+    "images/d5/brutalism_0296.jpg": {
+      "r2Key": "images/d5/brutalism_0296.jpg",
+      "localPath": "d5\\brutalism_0296.jpg",
+      "size": 150896,
+      "uploadedAt": "2025-12-25T09:00:53.818Z"
+    },
+    "images/d6/brutalism_0250.jpg": {
+      "r2Key": "images/d6/brutalism_0250.jpg",
+      "localPath": "d6\\brutalism_0250.jpg",
+      "size": 213822,
+      "uploadedAt": "2025-12-25T09:00:55.303Z"
+    },
+    "images/d7/brutalism_0151.jpg": {
+      "r2Key": "images/d7/brutalism_0151.jpg",
+      "localPath": "d7\\brutalism_0151.jpg",
+      "size": 148674,
+      "uploadedAt": "2025-12-25T09:00:56.799Z"
+    },
+    "images/dc/brutalism_0122.jpg": {
+      "r2Key": "images/dc/brutalism_0122.jpg",
+      "localPath": "dc\\brutalism_0122.jpg",
+      "size": 174828,
+      "uploadedAt": "2025-12-25T09:00:58.289Z"
+    },
+    "images/dd/brutalism_0010.jpg": {
+      "r2Key": "images/dd/brutalism_0010.jpg",
+      "localPath": "dd\\brutalism_0010.jpg",
+      "size": 234568,
+      "uploadedAt": "2025-12-25T09:01:00.028Z"
+    },
+    "images/de/brutalism_0144.jpg": {
+      "r2Key": "images/de/brutalism_0144.jpg",
+      "localPath": "de\\brutalism_0144.jpg",
+      "size": 142654,
+      "uploadedAt": "2025-12-25T09:01:01.458Z"
+    },
+    "images/df/brutalism_0008.jpg": {
+      "r2Key": "images/df/brutalism_0008.jpg",
+      "localPath": "df\\brutalism_0008.jpg",
+      "size": 156731,
+      "uploadedAt": "2025-12-25T09:01:02.996Z"
+    },
+    "images/df/brutalism_0211.jpg": {
+      "r2Key": "images/df/brutalism_0211.jpg",
+      "localPath": "df\\brutalism_0211.jpg",
+      "size": 140566,
+      "uploadedAt": "2025-12-25T09:01:04.931Z"
+    },
+    "images/df/brutalism_0239.jpg": {
+      "r2Key": "images/df/brutalism_0239.jpg",
+      "localPath": "df\\brutalism_0239.jpg",
+      "size": 163904,
+      "uploadedAt": "2025-12-25T09:01:06.552Z"
+    },
+    "images/e1/brutalism_0147.jpg": {
+      "r2Key": "images/e1/brutalism_0147.jpg",
+      "localPath": "e1\\brutalism_0147.jpg",
+      "size": 194015,
+      "uploadedAt": "2025-12-25T09:01:08.152Z"
+    },
+    "images/e1/brutalism_0172.jpg": {
+      "r2Key": "images/e1/brutalism_0172.jpg",
+      "localPath": "e1\\brutalism_0172.jpg",
+      "size": 158165,
+      "uploadedAt": "2025-12-25T09:01:10.069Z"
+    },
+    "images/e1/brutalism_0281.jpg": {
+      "r2Key": "images/e1/brutalism_0281.jpg",
+      "localPath": "e1\\brutalism_0281.jpg",
+      "size": 146954,
+      "uploadedAt": "2025-12-25T09:01:11.406Z"
+    },
+    "images/e2/brutalism_0094.jpg": {
+      "r2Key": "images/e2/brutalism_0094.jpg",
+      "localPath": "e2\\brutalism_0094.jpg",
+      "size": 189064,
+      "uploadedAt": "2025-12-25T09:01:13.040Z"
+    },
+    "images/e3/brutalism_0237.jpg": {
+      "r2Key": "images/e3/brutalism_0237.jpg",
+      "localPath": "e3\\brutalism_0237.jpg",
+      "size": 181883,
+      "uploadedAt": "2025-12-25T09:01:14.562Z"
+    },
+    "images/e4/brutalism_0024.jpg": {
+      "r2Key": "images/e4/brutalism_0024.jpg",
+      "localPath": "e4\\brutalism_0024.jpg",
+      "size": 108701,
+      "uploadedAt": "2025-12-25T09:01:16.050Z"
+    },
+    "images/e5/brutalism_0178.jpg": {
+      "r2Key": "images/e5/brutalism_0178.jpg",
+      "localPath": "e5\\brutalism_0178.jpg",
+      "size": 144515,
+      "uploadedAt": "2025-12-25T09:01:17.504Z"
+    },
+    "images/e6/brutalism_0062.jpg": {
+      "r2Key": "images/e6/brutalism_0062.jpg",
+      "localPath": "e6\\brutalism_0062.jpg",
+      "size": 101257,
+      "uploadedAt": "2025-12-25T09:01:19.249Z"
+    },
+    "images/e6/brutalism_0154.jpg": {
+      "r2Key": "images/e6/brutalism_0154.jpg",
+      "localPath": "e6\\brutalism_0154.jpg",
+      "size": 225816,
+      "uploadedAt": "2025-12-25T09:01:21.117Z"
+    },
+    "images/e6/brutalism_0155.jpg": {
+      "r2Key": "images/e6/brutalism_0155.jpg",
+      "localPath": "e6\\brutalism_0155.jpg",
+      "size": 177236,
+      "uploadedAt": "2025-12-25T09:01:22.563Z"
+    },
+    "images/e7/brutalism_0047.jpg": {
+      "r2Key": "images/e7/brutalism_0047.jpg",
+      "localPath": "e7\\brutalism_0047.jpg",
+      "size": 183963,
+      "uploadedAt": "2025-12-25T09:01:23.992Z"
+    },
+    "images/e7/brutalism_0157.jpg": {
+      "r2Key": "images/e7/brutalism_0157.jpg",
+      "localPath": "e7\\brutalism_0157.jpg",
+      "size": 106670,
+      "uploadedAt": "2025-12-25T09:01:25.529Z"
+    },
+    "images/e7/brutalism_0187.jpg": {
+      "r2Key": "images/e7/brutalism_0187.jpg",
+      "localPath": "e7\\brutalism_0187.jpg",
+      "size": 163879,
+      "uploadedAt": "2025-12-25T09:01:26.940Z"
+    },
+    "images/e7/brutalism_0267.jpg": {
+      "r2Key": "images/e7/brutalism_0267.jpg",
+      "localPath": "e7\\brutalism_0267.jpg",
+      "size": 174005,
+      "uploadedAt": "2025-12-25T09:01:28.421Z"
+    },
+    "images/e8/brutalism_0045.jpg": {
+      "r2Key": "images/e8/brutalism_0045.jpg",
+      "localPath": "e8\\brutalism_0045.jpg",
+      "size": 221431,
+      "uploadedAt": "2025-12-25T09:01:30.057Z"
+    },
+    "images/e8/brutalism_0091.jpg": {
+      "r2Key": "images/e8/brutalism_0091.jpg",
+      "localPath": "e8\\brutalism_0091.jpg",
+      "size": 126206,
+      "uploadedAt": "2025-12-25T09:01:31.566Z"
+    },
+    "images/e9/brutalism_0076.jpg": {
+      "r2Key": "images/e9/brutalism_0076.jpg",
+      "localPath": "e9\\brutalism_0076.jpg",
+      "size": 132584,
+      "uploadedAt": "2025-12-25T09:01:33.004Z"
+    },
+    "images/e9/brutalism_0269.jpg": {
+      "r2Key": "images/e9/brutalism_0269.jpg",
+      "localPath": "e9\\brutalism_0269.jpg",
+      "size": 185667,
+      "uploadedAt": "2025-12-25T09:01:34.686Z"
+    },
+    "images/eb/brutalism_0121.jpg": {
+      "r2Key": "images/eb/brutalism_0121.jpg",
+      "localPath": "eb\\brutalism_0121.jpg",
+      "size": 261533,
+      "uploadedAt": "2025-12-25T09:01:36.135Z"
+    },
+    "images/ec/brutalism_0073.jpg": {
+      "r2Key": "images/ec/brutalism_0073.jpg",
+      "localPath": "ec\\brutalism_0073.jpg",
+      "size": 137836,
+      "uploadedAt": "2025-12-25T09:01:37.623Z"
+    },
+    "images/ec/brutalism_0190.jpg": {
+      "r2Key": "images/ec/brutalism_0190.jpg",
+      "localPath": "ec\\brutalism_0190.jpg",
+      "size": 105138,
+      "uploadedAt": "2025-12-25T09:01:39.049Z"
+    },
+    "images/ec/brutalism_0192.jpg": {
+      "r2Key": "images/ec/brutalism_0192.jpg",
+      "localPath": "ec\\brutalism_0192.jpg",
+      "size": 147123,
+      "uploadedAt": "2025-12-25T09:01:40.450Z"
+    },
+    "images/ec/brutalism_0288.jpg": {
+      "r2Key": "images/ec/brutalism_0288.jpg",
+      "localPath": "ec\\brutalism_0288.jpg",
+      "size": 154373,
+      "uploadedAt": "2025-12-25T09:01:41.810Z"
+    },
+    "images/ed/brutalism_0163.jpg": {
+      "r2Key": "images/ed/brutalism_0163.jpg",
+      "localPath": "ed\\brutalism_0163.jpg",
+      "size": 204642,
+      "uploadedAt": "2025-12-25T09:01:43.506Z"
+    },
+    "images/ee/brutalism_0139.jpg": {
+      "r2Key": "images/ee/brutalism_0139.jpg",
+      "localPath": "ee\\brutalism_0139.jpg",
+      "size": 213869,
+      "uploadedAt": "2025-12-25T09:01:45.068Z"
+    },
+    "images/ef/brutalism_0046.jpg": {
+      "r2Key": "images/ef/brutalism_0046.jpg",
+      "localPath": "ef\\brutalism_0046.jpg",
+      "size": 212404,
+      "uploadedAt": "2025-12-25T09:01:46.558Z"
+    },
+    "images/ef/brutalism_0102.jpg": {
+      "r2Key": "images/ef/brutalism_0102.jpg",
+      "localPath": "ef\\brutalism_0102.jpg",
+      "size": 146362,
+      "uploadedAt": "2025-12-25T09:01:48.127Z"
+    },
+    "images/ef/brutalism_0115.jpg": {
+      "r2Key": "images/ef/brutalism_0115.jpg",
+      "localPath": "ef\\brutalism_0115.jpg",
+      "size": 201517,
+      "uploadedAt": "2025-12-25T09:01:49.585Z"
+    },
+    "images/f2/brutalism_0009.jpg": {
+      "r2Key": "images/f2/brutalism_0009.jpg",
+      "localPath": "f2\\brutalism_0009.jpg",
+      "size": 229533,
+      "uploadedAt": "2025-12-25T09:01:51.143Z"
+    },
+    "images/f2/brutalism_0207.jpg": {
+      "r2Key": "images/f2/brutalism_0207.jpg",
+      "localPath": "f2\\brutalism_0207.jpg",
+      "size": 200358,
+      "uploadedAt": "2025-12-25T09:01:52.588Z"
+    },
+    "images/f3/brutalism_0053.jpg": {
+      "r2Key": "images/f3/brutalism_0053.jpg",
+      "localPath": "f3\\brutalism_0053.jpg",
+      "size": 216429,
+      "uploadedAt": "2025-12-25T09:01:54.170Z"
+    },
+    "images/f3/brutalism_0078.jpg": {
+      "r2Key": "images/f3/brutalism_0078.jpg",
+      "localPath": "f3\\brutalism_0078.jpg",
+      "size": 219575,
+      "uploadedAt": "2025-12-25T09:01:55.588Z"
+    },
+    "images/f4/brutalism_0173.jpg": {
+      "r2Key": "images/f4/brutalism_0173.jpg",
+      "localPath": "f4\\brutalism_0173.jpg",
+      "size": 80736,
+      "uploadedAt": "2025-12-25T09:01:57.226Z"
+    },
+    "images/f5/brutalism_0036.jpg": {
+      "r2Key": "images/f5/brutalism_0036.jpg",
+      "localPath": "f5\\brutalism_0036.jpg",
+      "size": 141353,
+      "uploadedAt": "2025-12-25T09:01:59.074Z"
+    },
+    "images/f6/brutalism_0166.jpg": {
+      "r2Key": "images/f6/brutalism_0166.jpg",
+      "localPath": "f6\\brutalism_0166.jpg",
+      "size": 217717,
+      "uploadedAt": "2025-12-25T09:02:00.549Z"
+    },
+    "images/f7/brutalism_0004.jpg": {
+      "r2Key": "images/f7/brutalism_0004.jpg",
+      "localPath": "f7\\brutalism_0004.jpg",
+      "size": 250799,
+      "uploadedAt": "2025-12-25T09:02:01.979Z"
+    },
+    "images/f7/brutalism_0298.jpg": {
+      "r2Key": "images/f7/brutalism_0298.jpg",
+      "localPath": "f7\\brutalism_0298.jpg",
+      "size": 84264,
+      "uploadedAt": "2025-12-25T09:02:03.380Z"
+    },
+    "images/f9/brutalism_0022.jpg": {
+      "r2Key": "images/f9/brutalism_0022.jpg",
+      "localPath": "f9\\brutalism_0022.jpg",
+      "size": 211801,
+      "uploadedAt": "2025-12-25T09:02:04.834Z"
+    },
+    "images/fa/brutalism_0230.jpg": {
+      "r2Key": "images/fa/brutalism_0230.jpg",
+      "localPath": "fa\\brutalism_0230.jpg",
+      "size": 142677,
+      "uploadedAt": "2025-12-25T09:02:06.310Z"
+    },
+    "images/fb/brutalism_0233.jpg": {
+      "r2Key": "images/fb/brutalism_0233.jpg",
+      "localPath": "fb\\brutalism_0233.jpg",
+      "size": 91842,
+      "uploadedAt": "2025-12-25T09:02:07.704Z"
+    },
+    "images/fc/brutalism_0152.jpg": {
+      "r2Key": "images/fc/brutalism_0152.jpg",
+      "localPath": "fc\\brutalism_0152.jpg",
+      "size": 152189,
+      "uploadedAt": "2025-12-25T09:02:09.228Z"
+    },
+    "images/fd/brutalism_0295.jpg": {
+      "r2Key": "images/fd/brutalism_0295.jpg",
+      "localPath": "fd\\brutalism_0295.jpg",
+      "size": 226344,
+      "uploadedAt": "2025-12-25T09:02:10.604Z"
+    },
+    "images/fe/brutalism_0130.jpg": {
+      "r2Key": "images/fe/brutalism_0130.jpg",
+      "localPath": "fe\\brutalism_0130.jpg",
+      "size": 111091,
+      "uploadedAt": "2025-12-25T09:02:12.081Z"
+    },
+    "images/ff/brutalism_0060.jpg": {
+      "r2Key": "images/ff/brutalism_0060.jpg",
+      "localPath": "ff\\brutalism_0060.jpg",
+      "size": 205032,
+      "uploadedAt": "2025-12-25T09:02:13.667Z"
+    },
+    "images/ff/brutalism_0104.jpg": {
+      "r2Key": "images/ff/brutalism_0104.jpg",
+      "localPath": "ff\\brutalism_0104.jpg",
+      "size": 166259,
+      "uploadedAt": "2025-12-25T09:02:15.146Z"
+    },
+    "images/20/brutalism_0307.jpg": {
+      "r2Key": "images/20/brutalism_0307.jpg",
+      "localPath": "20\\brutalism_0307.jpg",
+      "size": 144546,
+      "uploadedAt": "2025-12-25T09:38:28.240Z"
+    },
+    "images/21/brutalism_0309.jpg": {
+      "r2Key": "images/21/brutalism_0309.jpg",
+      "localPath": "21\\brutalism_0309.jpg",
+      "size": 153082,
+      "uploadedAt": "2025-12-25T09:38:29.744Z"
+    },
+    "images/2f/brutalism_0308.jpg": {
+      "r2Key": "images/2f/brutalism_0308.jpg",
+      "localPath": "2f\\brutalism_0308.jpg",
+      "size": 129281,
+      "uploadedAt": "2025-12-25T09:38:31.197Z"
+    },
+    "images/47/brutalism_0306.jpg": {
+      "r2Key": "images/47/brutalism_0306.jpg",
+      "localPath": "47\\brutalism_0306.jpg",
+      "size": 126156,
+      "uploadedAt": "2025-12-25T09:38:32.645Z"
+    },
+    "images/57/brutalism_0301.jpg": {
+      "r2Key": "images/57/brutalism_0301.jpg",
+      "localPath": "57\\brutalism_0301.jpg",
+      "size": 157615,
+      "uploadedAt": "2025-12-25T09:38:34.097Z"
+    },
+    "images/70/brutalism_0305.jpg": {
+      "r2Key": "images/70/brutalism_0305.jpg",
+      "localPath": "70\\brutalism_0305.jpg",
+      "size": 206937,
+      "uploadedAt": "2025-12-25T09:38:35.515Z"
+    },
+    "images/79/brutalism_0303.jpg": {
+      "r2Key": "images/79/brutalism_0303.jpg",
+      "localPath": "79\\brutalism_0303.jpg",
+      "size": 132031,
+      "uploadedAt": "2025-12-25T09:38:36.909Z"
+    },
+    "images/86/brutalism_0310.jpg": {
+      "r2Key": "images/86/brutalism_0310.jpg",
+      "localPath": "86\\brutalism_0310.jpg",
+      "size": 168166,
+      "uploadedAt": "2025-12-25T09:38:38.656Z"
+    },
+    "images/95/brutalism_0304.jpg": {
+      "r2Key": "images/95/brutalism_0304.jpg",
+      "localPath": "95\\brutalism_0304.jpg",
+      "size": 172883,
+      "uploadedAt": "2025-12-25T09:38:40.208Z"
+    },
+    "images/ea/brutalism_0302.jpg": {
+      "r2Key": "images/ea/brutalism_0302.jpg",
+      "localPath": "ea\\brutalism_0302.jpg",
+      "size": 204101,
+      "uploadedAt": "2025-12-25T09:38:41.637Z"
+    },
+    "images/03/brutalism_0331.jpg": {
+      "r2Key": "images/03/brutalism_0331.jpg",
+      "localPath": "03\\brutalism_0331.jpg",
+      "size": 200867,
+      "uploadedAt": "2025-12-25T11:02:29.183Z"
+    },
+    "images/05/brutalism_0380.jpg": {
+      "r2Key": "images/05/brutalism_0380.jpg",
+      "localPath": "05\\brutalism_0380.jpg",
+      "size": 146264,
+      "uploadedAt": "2025-12-25T11:02:30.731Z"
+    },
+    "images/0a/brutalism_0368.jpg": {
+      "r2Key": "images/0a/brutalism_0368.jpg",
+      "localPath": "0a\\brutalism_0368.jpg",
+      "size": 100434,
+      "uploadedAt": "2025-12-25T11:02:32.493Z"
+    },
+    "images/0c/brutalism_0405.jpg": {
+      "r2Key": "images/0c/brutalism_0405.jpg",
+      "localPath": "0c\\brutalism_0405.jpg",
+      "size": 128369,
+      "uploadedAt": "2025-12-25T11:02:33.934Z"
+    },
+    "images/0e/brutalism_0376.jpg": {
+      "r2Key": "images/0e/brutalism_0376.jpg",
+      "localPath": "0e\\brutalism_0376.jpg",
+      "size": 263326,
+      "uploadedAt": "2025-12-25T11:02:35.399Z"
+    },
+    "images/0f/brutalism_0320.jpg": {
+      "r2Key": "images/0f/brutalism_0320.jpg",
+      "localPath": "0f\\brutalism_0320.jpg",
+      "size": 139404,
+      "uploadedAt": "2025-12-25T11:02:36.944Z"
+    },
+    "images/11/brutalism_0323.jpg": {
+      "r2Key": "images/11/brutalism_0323.jpg",
+      "localPath": "11\\brutalism_0323.jpg",
+      "size": 175284,
+      "uploadedAt": "2025-12-25T11:02:38.341Z"
+    },
+    "images/12/brutalism_0387.jpg": {
+      "r2Key": "images/12/brutalism_0387.jpg",
+      "localPath": "12\\brutalism_0387.jpg",
+      "size": 256890,
+      "uploadedAt": "2025-12-25T11:02:39.755Z"
+    },
+    "images/14/brutalism_0327.jpg": {
+      "r2Key": "images/14/brutalism_0327.jpg",
+      "localPath": "14\\brutalism_0327.jpg",
+      "size": 105904,
+      "uploadedAt": "2025-12-25T11:02:41.088Z"
+    },
+    "images/14/brutalism_0407.jpg": {
+      "r2Key": "images/14/brutalism_0407.jpg",
+      "localPath": "14\\brutalism_0407.jpg",
+      "size": 165934,
+      "uploadedAt": "2025-12-25T11:02:42.457Z"
+    },
+    "images/16/brutalism_0313.jpg": {
+      "r2Key": "images/16/brutalism_0313.jpg",
+      "localPath": "16\\brutalism_0313.jpg",
+      "size": 182002,
+      "uploadedAt": "2025-12-25T11:02:43.815Z"
+    },
+    "images/17/brutalism_0399.jpg": {
+      "r2Key": "images/17/brutalism_0399.jpg",
+      "localPath": "17\\brutalism_0399.jpg",
+      "size": 167897,
+      "uploadedAt": "2025-12-25T11:02:45.279Z"
+    },
+    "images/1b/brutalism_0329.jpg": {
+      "r2Key": "images/1b/brutalism_0329.jpg",
+      "localPath": "1b\\brutalism_0329.jpg",
+      "size": 180310,
+      "uploadedAt": "2025-12-25T11:02:46.660Z"
+    },
+    "images/1d/brutalism_0330.jpg": {
+      "r2Key": "images/1d/brutalism_0330.jpg",
+      "localPath": "1d\\brutalism_0330.jpg",
+      "size": 114546,
+      "uploadedAt": "2025-12-25T11:02:47.978Z"
+    },
+    "images/20/brutalism_0311.jpg": {
+      "r2Key": "images/20/brutalism_0311.jpg",
+      "localPath": "20\\brutalism_0311.jpg",
+      "size": 296547,
+      "uploadedAt": "2025-12-25T11:02:49.611Z"
+    },
+    "images/20/brutalism_0353.jpg": {
+      "r2Key": "images/20/brutalism_0353.jpg",
+      "localPath": "20\\brutalism_0353.jpg",
+      "size": 138937,
+      "uploadedAt": "2025-12-25T11:02:51.033Z"
+    },
+    "images/20/brutalism_0388.jpg": {
+      "r2Key": "images/20/brutalism_0388.jpg",
+      "localPath": "20\\brutalism_0388.jpg",
+      "size": 130586,
+      "uploadedAt": "2025-12-25T11:02:52.350Z"
+    },
+    "images/20/brutalism_0396.jpg": {
+      "r2Key": "images/20/brutalism_0396.jpg",
+      "localPath": "20\\brutalism_0396.jpg",
+      "size": 158717,
+      "uploadedAt": "2025-12-25T11:02:53.753Z"
+    },
+    "images/25/brutalism_0379.jpg": {
+      "r2Key": "images/25/brutalism_0379.jpg",
+      "localPath": "25\\brutalism_0379.jpg",
+      "size": 193401,
+      "uploadedAt": "2025-12-25T11:02:55.205Z"
+    },
+    "images/26/brutalism_0382.jpg": {
+      "r2Key": "images/26/brutalism_0382.jpg",
+      "localPath": "26\\brutalism_0382.jpg",
+      "size": 213283,
+      "uploadedAt": "2025-12-25T11:02:56.626Z"
+    },
+    "images/2a/brutalism_0335.jpg": {
+      "r2Key": "images/2a/brutalism_0335.jpg",
+      "localPath": "2a\\brutalism_0335.jpg",
+      "size": 130964,
+      "uploadedAt": "2025-12-25T11:02:58.248Z"
+    },
+    "images/2a/brutalism_0363.jpg": {
+      "r2Key": "images/2a/brutalism_0363.jpg",
+      "localPath": "2a\\brutalism_0363.jpg",
+      "size": 162278,
+      "uploadedAt": "2025-12-25T11:02:59.785Z"
+    },
+    "images/2c/brutalism_0385.jpg": {
+      "r2Key": "images/2c/brutalism_0385.jpg",
+      "localPath": "2c\\brutalism_0385.jpg",
+      "size": 173444,
+      "uploadedAt": "2025-12-25T11:03:01.161Z"
+    },
+    "images/2e/brutalism_0321.jpg": {
+      "r2Key": "images/2e/brutalism_0321.jpg",
+      "localPath": "2e\\brutalism_0321.jpg",
+      "size": 212118,
+      "uploadedAt": "2025-12-25T11:03:02.699Z"
+    },
+    "images/2f/brutalism_0377.jpg": {
+      "r2Key": "images/2f/brutalism_0377.jpg",
+      "localPath": "2f\\brutalism_0377.jpg",
+      "size": 152251,
+      "uploadedAt": "2025-12-25T11:03:04.089Z"
+    },
+    "images/30/brutalism_0343.jpg": {
+      "r2Key": "images/30/brutalism_0343.jpg",
+      "localPath": "30\\brutalism_0343.jpg",
+      "size": 209295,
+      "uploadedAt": "2025-12-25T11:03:05.745Z"
+    },
+    "images/31/brutalism_0334.jpg": {
+      "r2Key": "images/31/brutalism_0334.jpg",
+      "localPath": "31\\brutalism_0334.jpg",
+      "size": 114732,
+      "uploadedAt": "2025-12-25T11:03:07.443Z"
+    },
+    "images/34/brutalism_0312.jpg": {
+      "r2Key": "images/34/brutalism_0312.jpg",
+      "localPath": "34\\brutalism_0312.jpg",
+      "size": 224741,
+      "uploadedAt": "2025-12-25T11:03:09.236Z"
+    },
+    "images/39/brutalism_0364.jpg": {
+      "r2Key": "images/39/brutalism_0364.jpg",
+      "localPath": "39\\brutalism_0364.jpg",
+      "size": 142108,
+      "uploadedAt": "2025-12-25T11:03:10.703Z"
+    },
+    "images/39/brutalism_0394.jpg": {
+      "r2Key": "images/39/brutalism_0394.jpg",
+      "localPath": "39\\brutalism_0394.jpg",
+      "size": 179046,
+      "uploadedAt": "2025-12-25T11:03:12.095Z"
+    },
+    "images/3e/brutalism_0352.jpg": {
+      "r2Key": "images/3e/brutalism_0352.jpg",
+      "localPath": "3e\\brutalism_0352.jpg",
+      "size": 160649,
+      "uploadedAt": "2025-12-25T11:03:13.403Z"
+    },
+    "images/3f/brutalism_0381.jpg": {
+      "r2Key": "images/3f/brutalism_0381.jpg",
+      "localPath": "3f\\brutalism_0381.jpg",
+      "size": 221693,
+      "uploadedAt": "2025-12-25T11:03:14.926Z"
+    },
+    "images/40/brutalism_0361.jpg": {
+      "r2Key": "images/40/brutalism_0361.jpg",
+      "localPath": "40\\brutalism_0361.jpg",
+      "size": 76328,
+      "uploadedAt": "2025-12-25T11:03:16.268Z"
+    },
+    "images/41/brutalism_0367.jpg": {
+      "r2Key": "images/41/brutalism_0367.jpg",
+      "localPath": "41\\brutalism_0367.jpg",
+      "size": 156261,
+      "uploadedAt": "2025-12-25T11:03:17.577Z"
+    },
+    "images/46/brutalism_0397.jpg": {
+      "r2Key": "images/46/brutalism_0397.jpg",
+      "localPath": "46\\brutalism_0397.jpg",
+      "size": 216878,
+      "uploadedAt": "2025-12-25T11:03:18.976Z"
+    },
+    "images/48/brutalism_0402.jpg": {
+      "r2Key": "images/48/brutalism_0402.jpg",
+      "localPath": "48\\brutalism_0402.jpg",
+      "size": 159831,
+      "uploadedAt": "2025-12-25T11:03:20.347Z"
+    },
+    "images/49/brutalism_0390.jpg": {
+      "r2Key": "images/49/brutalism_0390.jpg",
+      "localPath": "49\\brutalism_0390.jpg",
+      "size": 220138,
+      "uploadedAt": "2025-12-25T11:03:21.795Z"
+    },
+    "images/4b/brutalism_0358.jpg": {
+      "r2Key": "images/4b/brutalism_0358.jpg",
+      "localPath": "4b\\brutalism_0358.jpg",
+      "size": 162590,
+      "uploadedAt": "2025-12-25T11:03:23.271Z"
+    },
+    "images/4e/brutalism_0391.jpg": {
+      "r2Key": "images/4e/brutalism_0391.jpg",
+      "localPath": "4e\\brutalism_0391.jpg",
+      "size": 92153,
+      "uploadedAt": "2025-12-25T11:03:24.711Z"
+    },
+    "images/55/brutalism_0362.jpg": {
+      "r2Key": "images/55/brutalism_0362.jpg",
+      "localPath": "55\\brutalism_0362.jpg",
+      "size": 168019,
+      "uploadedAt": "2025-12-25T11:03:26.064Z"
+    },
+    "images/55/brutalism_0383.jpg": {
+      "r2Key": "images/55/brutalism_0383.jpg",
+      "localPath": "55\\brutalism_0383.jpg",
+      "size": 170907,
+      "uploadedAt": "2025-12-25T11:03:27.511Z"
+    },
+    "images/5e/brutalism_0345.jpg": {
+      "r2Key": "images/5e/brutalism_0345.jpg",
+      "localPath": "5e\\brutalism_0345.jpg",
+      "size": 104000,
+      "uploadedAt": "2025-12-25T11:03:28.907Z"
+    },
+    "images/60/brutalism_0366.jpg": {
+      "r2Key": "images/60/brutalism_0366.jpg",
+      "localPath": "60\\brutalism_0366.jpg",
+      "size": 222274,
+      "uploadedAt": "2025-12-25T11:03:30.404Z"
+    },
+    "images/61/brutalism_0398.jpg": {
+      "r2Key": "images/61/brutalism_0398.jpg",
+      "localPath": "61\\brutalism_0398.jpg",
+      "size": 162925,
+      "uploadedAt": "2025-12-25T11:03:31.820Z"
+    },
+    "images/69/brutalism_0392.jpg": {
+      "r2Key": "images/69/brutalism_0392.jpg",
+      "localPath": "69\\brutalism_0392.jpg",
+      "size": 196714,
+      "uploadedAt": "2025-12-25T11:03:33.252Z"
+    },
+    "images/6a/brutalism_0375.jpg": {
+      "r2Key": "images/6a/brutalism_0375.jpg",
+      "localPath": "6a\\brutalism_0375.jpg",
+      "size": 173320,
+      "uploadedAt": "2025-12-25T11:03:34.637Z"
+    },
+    "images/6f/brutalism_0337.jpg": {
+      "r2Key": "images/6f/brutalism_0337.jpg",
+      "localPath": "6f\\brutalism_0337.jpg",
+      "size": 133999,
+      "uploadedAt": "2025-12-25T11:03:35.985Z"
+    },
+    "images/71/brutalism_0328.jpg": {
+      "r2Key": "images/71/brutalism_0328.jpg",
+      "localPath": "71\\brutalism_0328.jpg",
+      "size": 189799,
+      "uploadedAt": "2025-12-25T11:03:37.303Z"
+    },
+    "images/78/brutalism_0348.jpg": {
+      "r2Key": "images/78/brutalism_0348.jpg",
+      "localPath": "78\\brutalism_0348.jpg",
+      "size": 87230,
+      "uploadedAt": "2025-12-25T11:03:38.677Z"
+    },
+    "images/7c/brutalism_0333.jpg": {
+      "r2Key": "images/7c/brutalism_0333.jpg",
+      "localPath": "7c\\brutalism_0333.jpg",
+      "size": 104696,
+      "uploadedAt": "2025-12-25T11:03:40.225Z"
+    },
+    "images/7d/brutalism_0340.jpg": {
+      "r2Key": "images/7d/brutalism_0340.jpg",
+      "localPath": "7d\\brutalism_0340.jpg",
+      "size": 282092,
+      "uploadedAt": "2025-12-25T11:03:41.699Z"
+    },
+    "images/82/brutalism_0355.jpg": {
+      "r2Key": "images/82/brutalism_0355.jpg",
+      "localPath": "82\\brutalism_0355.jpg",
+      "size": 141000,
+      "uploadedAt": "2025-12-25T11:03:43.253Z"
+    },
+    "images/85/brutalism_0342.jpg": {
+      "r2Key": "images/85/brutalism_0342.jpg",
+      "localPath": "85\\brutalism_0342.jpg",
+      "size": 174940,
+      "uploadedAt": "2025-12-25T11:03:44.682Z"
+    },
+    "images/85/brutalism_0406.jpg": {
+      "r2Key": "images/85/brutalism_0406.jpg",
+      "localPath": "85\\brutalism_0406.jpg",
+      "size": 174163,
+      "uploadedAt": "2025-12-25T11:03:46.349Z"
+    },
+    "images/87/brutalism_0410.jpg": {
+      "r2Key": "images/87/brutalism_0410.jpg",
+      "localPath": "87\\brutalism_0410.jpg",
+      "size": 192616,
+      "uploadedAt": "2025-12-25T11:03:48.184Z"
+    },
+    "images/89/brutalism_0408.jpg": {
+      "r2Key": "images/89/brutalism_0408.jpg",
+      "localPath": "89\\brutalism_0408.jpg",
+      "size": 185767,
+      "uploadedAt": "2025-12-25T11:03:49.723Z"
+    },
+    "images/8b/brutalism_0357.jpg": {
+      "r2Key": "images/8b/brutalism_0357.jpg",
+      "localPath": "8b\\brutalism_0357.jpg",
+      "size": 176507,
+      "uploadedAt": "2025-12-25T11:03:51.084Z"
+    },
+    "images/8c/brutalism_0351.jpg": {
+      "r2Key": "images/8c/brutalism_0351.jpg",
+      "localPath": "8c\\brutalism_0351.jpg",
+      "size": 220980,
+      "uploadedAt": "2025-12-25T11:03:52.582Z"
+    },
+    "images/8f/brutalism_0319.jpg": {
+      "r2Key": "images/8f/brutalism_0319.jpg",
+      "localPath": "8f\\brutalism_0319.jpg",
+      "size": 159140,
+      "uploadedAt": "2025-12-25T11:03:54.052Z"
+    },
+    "images/9b/brutalism_0373.jpg": {
+      "r2Key": "images/9b/brutalism_0373.jpg",
+      "localPath": "9b\\brutalism_0373.jpg",
+      "size": 169992,
+      "uploadedAt": "2025-12-25T11:03:55.398Z"
+    },
+    "images/9e/brutalism_0365.jpg": {
+      "r2Key": "images/9e/brutalism_0365.jpg",
+      "localPath": "9e\\brutalism_0365.jpg",
+      "size": 175133,
+      "uploadedAt": "2025-12-25T11:03:56.831Z"
+    },
+    "images/9f/brutalism_0378.jpg": {
+      "r2Key": "images/9f/brutalism_0378.jpg",
+      "localPath": "9f\\brutalism_0378.jpg",
+      "size": 231517,
+      "uploadedAt": "2025-12-25T11:03:58.206Z"
+    },
+    "images/a3/brutalism_0356.jpg": {
+      "r2Key": "images/a3/brutalism_0356.jpg",
+      "localPath": "a3\\brutalism_0356.jpg",
+      "size": 187395,
+      "uploadedAt": "2025-12-25T11:03:59.802Z"
+    },
+    "images/a8/brutalism_0318.jpg": {
+      "r2Key": "images/a8/brutalism_0318.jpg",
+      "localPath": "a8\\brutalism_0318.jpg",
+      "size": 141890,
+      "uploadedAt": "2025-12-25T11:04:01.212Z"
+    },
+    "images/ae/brutalism_0339.jpg": {
+      "r2Key": "images/ae/brutalism_0339.jpg",
+      "localPath": "ae\\brutalism_0339.jpg",
+      "size": 190361,
+      "uploadedAt": "2025-12-25T11:04:03.059Z"
+    },
+    "images/b5/brutalism_0349.jpg": {
+      "r2Key": "images/b5/brutalism_0349.jpg",
+      "localPath": "b5\\brutalism_0349.jpg",
+      "size": 207950,
+      "uploadedAt": "2025-12-25T11:04:04.695Z"
+    },
+    "images/be/brutalism_0315.jpg": {
+      "r2Key": "images/be/brutalism_0315.jpg",
+      "localPath": "be\\brutalism_0315.jpg",
+      "size": 177609,
+      "uploadedAt": "2025-12-25T11:04:06.061Z"
+    },
+    "images/c0/brutalism_0369.jpg": {
+      "r2Key": "images/c0/brutalism_0369.jpg",
+      "localPath": "c0\\brutalism_0369.jpg",
+      "size": 159268,
+      "uploadedAt": "2025-12-25T11:04:07.523Z"
+    },
+    "images/c1/brutalism_0370.jpg": {
+      "r2Key": "images/c1/brutalism_0370.jpg",
+      "localPath": "c1\\brutalism_0370.jpg",
+      "size": 169697,
+      "uploadedAt": "2025-12-25T11:04:09.007Z"
+    },
+    "images/c4/brutalism_0341.jpg": {
+      "r2Key": "images/c4/brutalism_0341.jpg",
+      "localPath": "c4\\brutalism_0341.jpg",
+      "size": 223898,
+      "uploadedAt": "2025-12-25T11:04:10.532Z"
+    },
+    "images/cb/brutalism_0400.jpg": {
+      "r2Key": "images/cb/brutalism_0400.jpg",
+      "localPath": "cb\\brutalism_0400.jpg",
+      "size": 137375,
+      "uploadedAt": "2025-12-25T11:04:12.023Z"
+    },
+    "images/cc/brutalism_0332.jpg": {
+      "r2Key": "images/cc/brutalism_0332.jpg",
+      "localPath": "cc\\brutalism_0332.jpg",
+      "size": 175882,
+      "uploadedAt": "2025-12-25T11:04:13.384Z"
+    },
+    "images/d1/brutalism_0395.jpg": {
+      "r2Key": "images/d1/brutalism_0395.jpg",
+      "localPath": "d1\\brutalism_0395.jpg",
+      "size": 118009,
+      "uploadedAt": "2025-12-25T11:04:14.997Z"
+    },
+    "images/d3/brutalism_0350.jpg": {
+      "r2Key": "images/d3/brutalism_0350.jpg",
+      "localPath": "d3\\brutalism_0350.jpg",
+      "size": 183366,
+      "uploadedAt": "2025-12-25T11:04:16.534Z"
+    },
+    "images/d6/brutalism_0326.jpg": {
+      "r2Key": "images/d6/brutalism_0326.jpg",
+      "localPath": "d6\\brutalism_0326.jpg",
+      "size": 120355,
+      "uploadedAt": "2025-12-25T11:04:17.983Z"
+    },
+    "images/d6/brutalism_0389.jpg": {
+      "r2Key": "images/d6/brutalism_0389.jpg",
+      "localPath": "d6\\brutalism_0389.jpg",
+      "size": 215178,
+      "uploadedAt": "2025-12-25T11:04:19.499Z"
+    },
+    "images/da/brutalism_0336.jpg": {
+      "r2Key": "images/da/brutalism_0336.jpg",
+      "localPath": "da\\brutalism_0336.jpg",
+      "size": 176326,
+      "uploadedAt": "2025-12-25T11:04:21.167Z"
+    },
+    "images/db/brutalism_0346.jpg": {
+      "r2Key": "images/db/brutalism_0346.jpg",
+      "localPath": "db\\brutalism_0346.jpg",
+      "size": 172849,
+      "uploadedAt": "2025-12-25T11:04:22.880Z"
+    },
+    "images/db/brutalism_0393.jpg": {
+      "r2Key": "images/db/brutalism_0393.jpg",
+      "localPath": "db\\brutalism_0393.jpg",
+      "size": 175162,
+      "uploadedAt": "2025-12-25T11:04:24.402Z"
+    },
+    "images/dc/brutalism_0359.jpg": {
+      "r2Key": "images/dc/brutalism_0359.jpg",
+      "localPath": "dc\\brutalism_0359.jpg",
+      "size": 234735,
+      "uploadedAt": "2025-12-25T11:04:25.888Z"
+    },
+    "images/dd/brutalism_0384.jpg": {
+      "r2Key": "images/dd/brutalism_0384.jpg",
+      "localPath": "dd\\brutalism_0384.jpg",
+      "size": 142781,
+      "uploadedAt": "2025-12-25T11:04:27.497Z"
+    },
+    "images/df/brutalism_0372.jpg": {
+      "r2Key": "images/df/brutalism_0372.jpg",
+      "localPath": "df\\brutalism_0372.jpg",
+      "size": 290662,
+      "uploadedAt": "2025-12-25T11:04:29.071Z"
+    },
+    "images/e1/brutalism_0316.jpg": {
+      "r2Key": "images/e1/brutalism_0316.jpg",
+      "localPath": "e1\\brutalism_0316.jpg",
+      "size": 198336,
+      "uploadedAt": "2025-12-25T11:04:30.406Z"
+    },
+    "images/e4/brutalism_0338.jpg": {
+      "r2Key": "images/e4/brutalism_0338.jpg",
+      "localPath": "e4\\brutalism_0338.jpg",
+      "size": 232035,
+      "uploadedAt": "2025-12-25T11:04:32.145Z"
+    },
+    "images/e5/brutalism_0314.jpg": {
+      "r2Key": "images/e5/brutalism_0314.jpg",
+      "localPath": "e5\\brutalism_0314.jpg",
+      "size": 166805,
+      "uploadedAt": "2025-12-25T11:04:33.467Z"
+    },
+    "images/e6/brutalism_0317.jpg": {
+      "r2Key": "images/e6/brutalism_0317.jpg",
+      "localPath": "e6\\brutalism_0317.jpg",
+      "size": 107504,
+      "uploadedAt": "2025-12-25T11:04:34.714Z"
+    },
+    "images/e6/brutalism_0360.jpg": {
+      "r2Key": "images/e6/brutalism_0360.jpg",
+      "localPath": "e6\\brutalism_0360.jpg",
+      "size": 199567,
+      "uploadedAt": "2025-12-25T11:04:36.010Z"
+    },
+    "images/e6/brutalism_0403.jpg": {
+      "r2Key": "images/e6/brutalism_0403.jpg",
+      "localPath": "e6\\brutalism_0403.jpg",
+      "size": 129534,
+      "uploadedAt": "2025-12-25T11:04:37.306Z"
+    },
+    "images/e6/brutalism_0404.jpg": {
+      "r2Key": "images/e6/brutalism_0404.jpg",
+      "localPath": "e6\\brutalism_0404.jpg",
+      "size": 214742,
+      "uploadedAt": "2025-12-25T11:04:38.806Z"
+    },
+    "images/e9/brutalism_0354.jpg": {
+      "r2Key": "images/e9/brutalism_0354.jpg",
+      "localPath": "e9\\brutalism_0354.jpg",
+      "size": 179232,
+      "uploadedAt": "2025-12-25T11:04:40.324Z"
+    },
+    "images/eb/brutalism_0324.jpg": {
+      "r2Key": "images/eb/brutalism_0324.jpg",
+      "localPath": "eb\\brutalism_0324.jpg",
+      "size": 135953,
+      "uploadedAt": "2025-12-25T11:04:41.787Z"
+    },
+    "images/ec/brutalism_0347.jpg": {
+      "r2Key": "images/ec/brutalism_0347.jpg",
+      "localPath": "ec\\brutalism_0347.jpg",
+      "size": 206890,
+      "uploadedAt": "2025-12-25T11:04:43.358Z"
+    },
+    "images/ef/brutalism_0322.jpg": {
+      "r2Key": "images/ef/brutalism_0322.jpg",
+      "localPath": "ef\\brutalism_0322.jpg",
+      "size": 130210,
+      "uploadedAt": "2025-12-25T11:04:44.783Z"
+    },
+    "images/ef/brutalism_0386.jpg": {
+      "r2Key": "images/ef/brutalism_0386.jpg",
+      "localPath": "ef\\brutalism_0386.jpg",
+      "size": 116008,
+      "uploadedAt": "2025-12-25T11:04:46.334Z"
+    },
+    "images/f2/brutalism_0374.jpg": {
+      "r2Key": "images/f2/brutalism_0374.jpg",
+      "localPath": "f2\\brutalism_0374.jpg",
+      "size": 181858,
+      "uploadedAt": "2025-12-25T11:04:47.785Z"
+    },
+    "images/f2/brutalism_0409.jpg": {
+      "r2Key": "images/f2/brutalism_0409.jpg",
+      "localPath": "f2\\brutalism_0409.jpg",
+      "size": 143326,
+      "uploadedAt": "2025-12-25T11:04:49.219Z"
+    },
+    "images/f4/brutalism_0325.jpg": {
+      "r2Key": "images/f4/brutalism_0325.jpg",
+      "localPath": "f4\\brutalism_0325.jpg",
+      "size": 221581,
+      "uploadedAt": "2025-12-25T11:04:50.692Z"
+    },
+    "images/f5/brutalism_0371.jpg": {
+      "r2Key": "images/f5/brutalism_0371.jpg",
+      "localPath": "f5\\brutalism_0371.jpg",
+      "size": 110288,
+      "uploadedAt": "2025-12-25T11:04:52.044Z"
+    },
+    "images/f6/brutalism_0344.jpg": {
+      "r2Key": "images/f6/brutalism_0344.jpg",
+      "localPath": "f6\\brutalism_0344.jpg",
+      "size": 162130,
+      "uploadedAt": "2025-12-25T11:04:53.461Z"
+    },
+    "images/f6/brutalism_0401.jpg": {
+      "r2Key": "images/f6/brutalism_0401.jpg",
+      "localPath": "f6\\brutalism_0401.jpg",
+      "size": 143950,
+      "uploadedAt": "2025-12-25T11:04:54.838Z"
+    }
+  },
+  "lastUploadAt": "2025-12-25T11:04:54.840Z"
+}

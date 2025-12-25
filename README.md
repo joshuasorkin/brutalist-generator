@@ -4,15 +4,23 @@ A digital art installation featuring an endless morphing slideshow of AI-generat
 
 ## What It Does
 
-1. **Image Generation**: A Node.js script generates a library of brutalist building images using the OpenAI Images API (gpt-image-1 model).
+1. **Image Generation**: Generates brutalist building images using OpenAI's gpt-image-1 model
+2. **Cloud Storage**: Stores compressed images on Cloudflare R2 for fast delivery
+3. **Slideshow Display**: Full-screen PWA with canvas-based transitions (mosaic, grid reveal, container transform)
+4. **Cloud Hosting**: Deployed on Fly.io for 24/7 availability
 
-2. **Slideshow Display**: A Next.js app displays the images in a full-screen, continuous slideshow with smooth crossfade transitions, subtle zoom effects, and blur to create a "morphing" visual effect.
+## Live Demo
+
+https://brutalist-generator.fly.dev
 
 ## Prerequisites
 
 - Node.js 18+
-- npm
-- OpenAI API key with access to the gpt-image-1 model
+- OpenAI API key with access to gpt-image-1
+- Cloudflare account (for R2 storage)
+- Fly.io account (for hosting)
+- Wrangler CLI (`npm install -g wrangler`)
+- Fly CLI (https://fly.io/docs/hands-on/install-flyctl/)
 
 ## Installation
 
@@ -31,24 +39,59 @@ A digital art installation featuring an endless morphing slideshow of AI-generat
    OPENAI_API_KEY=sk-your-actual-api-key-here
    ```
 
-## Generating Images
+4. Authenticate with Cloudflare and Fly.io:
+   ```bash
+   wrangler login
+   fly auth login
+   ```
 
-Run the image generation script:
+## Adding New Images (Full Pipeline)
+
+The easiest way to add images is the unified pipeline command:
 
 ```bash
-npm run generate:brutalism
+npm run pipeline -- -n 10
 ```
 
-This will:
-- Generate 60 brutalist architecture images (configurable in the script)
-- Save them to `public/brutalism/`
-- Create a manifest at `data/brutalismManifest.json`
+This single command will:
+1. **Generate** 10 new PNG images via OpenAI (numbered after existing images)
+2. **Export** them to compressed JPEGs (~85% smaller)
+3. **Upload** only new images to Cloudflare R2
+4. **Update** the manifest with R2 URLs
 
-**Note**: Generation can take significant time depending on API rate limits. Each image takes a few seconds to generate.
+After the pipeline completes, deploy to update the live site:
 
-To change the number of images, edit `scripts/generate-brutalism.ts` and modify the `NUM_IMAGES` constant.
+```bash
+fly deploy
+```
 
-## Running the Slideshow
+### Pipeline Options
+
+```bash
+npm run pipeline -- -n 20      # Generate 20 new images
+npm run pipeline -- --count=5  # Generate 5 new images
+```
+
+## Individual Commands
+
+You can also run each step separately:
+
+```bash
+# Generate images (PNGs to public/brutalism/)
+npm run generate:brutalism           # Generate up to 300 images
+npm run generate:brutalism -- -n 10  # Generate 10 NEW images
+
+# Export to compressed JPEGs (BrutalFrame/)
+npm run export:tablet
+
+# Upload new images to R2
+npm run upload:r2
+
+# Deploy to Fly.io
+fly deploy
+```
+
+## Running Locally
 
 ### Development Mode
 
@@ -56,7 +99,7 @@ To change the number of images, edit `scripts/generate-brutalism.ts` and modify 
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open http://localhost:3000 in your browser.
 
 ### Production Build
 
@@ -65,76 +108,104 @@ npm run build
 npm run start
 ```
 
-The app will be available at [http://localhost:3000](http://localhost:3000).
-
 ## Configuration
 
 ### Slideshow Timing
 
-Edit `app/page.tsx` to adjust:
+Edit `app/page.tsx`:
 
-- `DISPLAY_MS`: How long each image is shown (default: 20000ms / 20 seconds)
-- `FADE_MS`: Duration of crossfade transitions (default: 4000ms / 4 seconds)
+```typescript
+const DISPLAY_MS = 10000;      // Time each image is shown (ms)
+const TRANSITION_MS = 3000;    // Transition duration (ms)
+const GRID_COLS = 16;          // Grid reveal columns
+const GRID_ROWS = 12;          // Grid reveal rows
+```
 
-### Image Generation Prompts
+### Image Generation
 
-Edit `scripts/generate-brutalism.ts` to customize:
+Edit `scripts/lib/prompt-vocabulary.ts` to customize:
+- Building types
+- Lighting conditions
+- Concrete expressions
+- Camera angles
+- Regional styles
 
-- `NUM_IMAGES`: Number of images to generate
-- `BUILDING_TYPES`: Types of brutalist buildings
-- `LIGHTING_CONDITIONS`: Lighting/atmosphere options
-- `STYLISTIC_ELEMENTS`: Visual style descriptors
+## Mobile/Tablet Setup (PWA)
 
-## Tablet Setup
+The app is a Progressive Web App that runs fullscreen on mobile devices.
 
-For the best experience on a wall-mounted tablet:
+### iOS
+1. Open https://brutalist-generator.fly.dev in Safari
+2. Tap Share → "Add to Home Screen"
+3. Launch from home screen icon
 
-1. Open the slideshow URL in the tablet's browser
-2. Add to home screen (iOS: Share → Add to Home Screen)
-3. Launch from the home screen icon for full-screen, standalone mode
-4. Enable "Do Not Disturb" and disable auto-lock
+### Android
+1. Open https://brutalist-generator.fly.dev in Chrome
+2. Tap menu (⋮) → "Install app"
+3. Launch from home screen icon
 
-The app is configured with proper meta tags for:
-- iOS standalone web app mode
-- Full-screen display
-- No zoom/scroll behavior
+## Architecture
+
+```
+┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
+│   OpenAI API    │────▶│  Local Storage  │────▶│  Cloudflare R2  │
+│  (gpt-image-1)  │     │  (PNG → JPEG)   │     │  (53MB images)  │
+└─────────────────┘     └─────────────────┘     └─────────────────┘
+                                                        │
+                                                        ▼
+┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
+│     Browser     │◀────│     Fly.io      │◀────│   R2 Images     │
+│   (PWA/Canvas)  │     │   (Next.js)     │     │  (CDN delivery) │
+└─────────────────┘     └─────────────────┘     └─────────────────┘
+```
 
 ## Project Structure
 
 ```
-project-root/
 ├── app/
-│   ├── page.tsx          # Main slideshow component
-│   ├── layout.tsx        # Root layout with meta tags
-│   └── globals.css       # Styles and animations
+│   ├── page.tsx              # Main slideshow component
+│   ├── layout.tsx            # PWA metadata
+│   └── globals.css           # Styles
 ├── data/
-│   └── brutalismManifest.json  # Generated image list
+│   ├── brutalismManifest.json    # Image URLs for slideshow
+│   ├── r2-manifest.json          # R2 upload tracking
+│   └── promptLog.json            # Generation metadata
 ├── public/
-│   └── brutalism/        # Generated images
+│   ├── brutalism/            # Source PNGs (not deployed)
+│   ├── images/               # Compressed JPEGs (not deployed)
+│   ├── icons/                # PWA icons
+│   └── manifest.json         # PWA manifest
 ├── scripts/
-│   └── generate-brutalism.ts   # Image generation script
-├── package.json
-├── tsconfig.json
-├── tsconfig.scripts.json
-├── next.config.mjs
-├── .env.local.example
-└── README.md
+│   ├── generate-brutalism.ts # Image generation
+│   ├── generate-pipeline.ts  # Full pipeline orchestration
+│   ├── export-tablet.ts      # PNG → JPEG compression
+│   ├── upload-r2.ts          # R2 upload with tracking
+│   └── lib/
+│       ├── prompt-vocabulary.ts  # Prompt components
+│       ├── geo.ts                # Geospatial features
+│       └── random.ts             # Seeded RNG
+├── BrutalFrame/              # Compressed JPEG export
+├── Dockerfile                # Fly.io deployment
+├── fly.toml                  # Fly.io config
+└── r2-cors.json              # R2 CORS config
 ```
 
 ## Troubleshooting
 
 ### "No images found" message
-Run the generation script first: `npm run generate:brutalism`
+Run the pipeline: `npm run pipeline -- -n 10`
 
-### API errors during generation
-- Check your API key is correct in `.env.local`
-- Ensure you have access to the gpt-image-1 model
-- Check your API usage limits
+### CORS errors on images
+Ensure R2 CORS is configured:
+```bash
+wrangler r2 bucket cors set brutalist-images --file=./r2-cors.json
+```
 
-### Images not loading
-- Verify images exist in `public/brutalism/`
-- Check the manifest at `data/brutalismManifest.json` has entries
-- Try running `npm run build` and `npm run start`
+### Canvas tainted by cross-origin data
+Images must have `crossOrigin = "anonymous"` and R2 must send CORS headers.
+
+### 502 errors on Fly.io
+Check logs: `fly logs -a brutalist-generator`
 
 ## License
 

@@ -46,7 +46,23 @@ dotenv.config({ path: '.env.local' });
 // ============================================================
 
 const TEST_MODE = process.argv.includes('--test');
-const NUM_IMAGES = 123;
+
+/**
+ * Parse --count=N or -n N to get how many NEW images to generate.
+ * If not specified, defaults to generating up to 300 total (legacy behavior).
+ */
+const COUNT_ARG = (() => {
+  const args = process.argv;
+  for (let i = 0; i < args.length; i++) {
+    if (args[i].startsWith('--count=')) {
+      return parseInt(args[i].split('=')[1], 10);
+    }
+    if ((args[i] === '-n' || args[i] === '--count') && args[i + 1]) {
+      return parseInt(args[i + 1], 10);
+    }
+  }
+  return null; // not specified
+})();
 
 /**
  * Optional deterministic seeding for reproducible prompt generation.
@@ -281,17 +297,39 @@ async function main() {
     }
   }
 
-  console.log(`\nGenerating ${NUM_IMAGES} brutalist architecture images...\n`);
+  // Determine start and end indices
+  let startIndex: number;
+  let endIndex: number;
+
+  if (COUNT_ARG !== null) {
+    // Find highest existing image number
+    const existingFiles = fs.readdirSync(publicBrutalismDir)
+      .filter(f => f.match(/^brutalism_\d{4}\.png$/));
+    const existingNumbers = existingFiles.map(f => parseInt(f.match(/\d{4}/)![0], 10));
+    const maxExisting = existingNumbers.length > 0 ? Math.max(...existingNumbers) : 0;
+
+    startIndex = maxExisting + 1;
+    endIndex = maxExisting + COUNT_ARG;
+    console.log(`\nGenerating ${COUNT_ARG} NEW images (${startIndex} to ${endIndex})...\n`);
+  } else {
+    // Legacy behavior: generate 1-300
+    startIndex = 1;
+    endIndex = 300;
+    console.log(`\nGenerating images 1 to ${endIndex}...\n`);
+  }
+
   if (MASTER_SEED) console.log(`MASTER_SEED: ${MASTER_SEED}\n`);
 
   let skipped = 0;
   let generated = 0;
   let failed = 0;
+  const totalToProcess = endIndex - startIndex + 1;
 
-  for (let i = 1; i <= NUM_IMAGES; i++) {
+  for (let i = startIndex; i <= endIndex; i++) {
     const filename = `brutalism_${padNumber(i, 4)}.png`;
     const filePath = path.join(publicBrutalismDir, filename);
     const publicPath = `/brutalism/${filename}`;
+    const progress = i - startIndex + 1;
 
     // Skip existing
     if (fs.existsSync(filePath)) {
@@ -300,13 +338,13 @@ async function main() {
         fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
       }
       skipped++;
-      console.log(`[${i}/${NUM_IMAGES}] Skipping (exists): ${filename}`);
+      console.log(`[${progress}/${totalToProcess}] Skipping (exists): ${filename}`);
       continue;
     }
 
     try {
       const { prompt, coordinates } = await buildPrompt(openai, i, geoCache);
-      console.log(`[${i}/${NUM_IMAGES}] Generating: ${filename}`);
+      console.log(`[${progress}/${totalToProcess}] Generating: ${filename}`);
       console.log(`  Prompt: ${prompt.substring(0, 180)}...`);
 
       const { buffer, model } = await generateImage(openai, prompt);
